@@ -1,1 +1,1 @@
-# Women, Work, & the World Economy 
+## Women, Work, and the World Economy 

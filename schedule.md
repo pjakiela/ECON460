@@ -1,7 +1,7 @@
 ## Schedule of Classes
 
 |  Date  |  Topic  |
-|--------------|-------|
+| ------------ | ------- |
 | Sept. 12 | Overview of the Class |
 | Sept. 14 | Gender Norms Among Non-Human Primates |
 | Sept. 19 | Methods Monday:  Data Management |

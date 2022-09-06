@@ -1,6 +1,6 @@
 # Readings
 
-The complete reading list is available here.  All required readings are included 
+The complete reading list is available [here](ECON460-readings-2022-09-06.pdf).  All required readings are included 
 in the course reading packet, which is available from the ECON department office.
 
 For each of the required readings listed below, you should 

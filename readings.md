@@ -1,12 +1,12 @@
 # Readings
 
-The complete reading list is available here.  
+The complete reading list is available here.  All required readings are included 
+in the course reading packet, which is available from the ECON department office.
 
 For each of the required readings listed below, you should 
-complete the reading response exercise in gradescope by 
-the due date.  Reading responses are due **before** the class meetings 
-where we discuss each reading.
+complete the reading response exercise in gradescope **before** the class meeting 
+where we will discuss each reading (reading-specific due dates are listed below).
 
-# 1. Gender Norms Among Non-Human Primates
+### 1. Gender Norms Among Non-Human Primates
 
-Reading:  Hrdy, Sarah Blaffer.  (1981)  The Woman that Never Evolved.  Cambridge:  Harvard University Press.  
+Reading:  Hrdy, Sarah Blaffer.  (1981)  [The Woman that Never Evolved](https://ebookcentral.proquest.com/lib/willm/detail.action?docID=3300544).  Cambridge:  Harvard University Press.  

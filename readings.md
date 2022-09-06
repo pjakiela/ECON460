@@ -9,4 +9,8 @@ where we will discuss each reading (reading-specific due dates are listed below)
 
 ### 1. Gender Norms Among Non-Human Primates
 
-Reading:  Hrdy, Sarah Blaffer.  (1981)  [The Woman that Never Evolved](https://ebookcentral.proquest.com/lib/willm/detail.action?docID=3300544).  Cambridge:  Harvard University Press.  
+Hrdy, Sarah Blaffer.  (1981)  [The Woman that Never Evolved](https://ebookcentral.proquest.com/lib/willm/detail.action?docID=3300544).  Cambridge:  Harvard University Press.  
+
+Reading Guide for _The Woman that Never Evolved_
+
+### 2. Lessons from Ancient DNA

@@ -1,5 +1,9 @@
 ## Schedule of Classes
 
+Can I use $x$ math?  
+$$ x+2$$
+
+
 |  Date  |  Topic  |
 | ------------ | ------- |
 | Sept. 12 | Overview of the Class |

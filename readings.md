@@ -11,7 +11,9 @@ where we will discuss each reading (reading-specific due dates are listed below)
 
 Hrdy, Sarah Blaffer.  (1981)  [_The Woman that Never Evolved_](https://ebookcentral.proquest.com/lib/willm/detail.action?docID=3300544).  
 
-Reading Guide for _The Woman that Never Evolved_
+[Reading Guide:  _The Woman that Never Evolved_](ECON460-Hrdy-reading-guide.pdf)
+
+[Reading Response Assignment:  _The Woman that Never Evolved_]([ECON460-Hrdy-reading-guide.pdf](https://www.gradescope.com/courses/439200/assignments/2233713/)) (due Sunday 9/11)
 
 ### 2. Lessons from Ancient DNA
 

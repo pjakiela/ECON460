@@ -27,9 +27,9 @@
 | 11/13 | Project:  Research Proposal |
 | 11/18 | Reading:  "Gendered Language on the Economics Job Market Rumors Forum" |
 |       | Reading:  "Gender Bias in Rumors Among Professionals: An Identity-Based Interpretation" |
-| 11/29 | Project:  Group Presentation (slides) |
-| 11/30 | Project:  Student Presentations (in class) |
-| 12/5 | Project:  Student Presentations (in class) |
-| 12/7 | Project:  Student Presentations (in class) |
+| 11/29 | Project:  Group Presentation (slides due) |
+| 11/30 | Project:  Group Presentations (in class) |
+| 12/5 | Project:  Group Presentations (in class) |
+| 12/7 | Project:  Group Presentations (in class) |
 | 12/16 | Project:  Research Papers due |
 

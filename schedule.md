@@ -1,4 +1,4 @@
-## Schedule of Classes
+# Schedule of Classes
 
 
 |  Date  |  Topic  |

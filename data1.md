@@ -64,9 +64,18 @@ an accessible discussion of color that is available [here](https://clauswilke.co
 
 ### Scatter Plots
 
-Scatter plots are a way of illustrating the relationship between two variables.  
+Scatter plots are a way of illustrating the relationship between two variables.  Again, your goal with any data visualization 
+is to make a specific point about your data - in this case about the relationship between your variables.  This point may be very simple 
+(e.g. Y and X are positively correlated), but it is important to approach the tast of producing a graph with your message in mind.  
+
+For your scatter plots, you may want to make a specific point by using different colors for different regions or income levels, your you may wish to 
+facet your data (showing different plots for different classes of observations), or you might want to overly a linear or non-linear regression 
+over the top of your scatter plot.  Which technique is appropriate will depend on the point you are trying to make.  
 
 ### Regression Analysis
+
+Your last piece of analysis will be a linear regression of one of your variables on the other.  You should present your regression results 
+in a self-contained table.  It is acceptable to show a single regression, but you may want to consider a few different specifications.  
 
 ## Presenting Your Results
 

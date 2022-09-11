@@ -17,8 +17,10 @@ There is no expectation that you uncover a causal relationship; your analysis ca
 The first step is to choose your variables from the 
 World Bank's [World Development Indicators (WDI) database](https://databank.worldbank.org/source/world-development-indicators).  You can explore the 
 variables in the WDI by clicking on the `Database` tab on the left side of the WDI webpage, choosing the database that you want to explore, and 
-then clicking on the `Series` tab to see a list of available variables.  You should focus on the `World Development Indicators` and `Gender Statistics` 
+then clicking on the `Series` tab to see a list of available variables (see image below).  You should focus on the `World Development Indicators` and `Gender Statistics` 
 databases (which you can choose on the `Database` tab).
+
+![WDI web interface](wdi1.png)
 
 ## Analyzing Your Data
 

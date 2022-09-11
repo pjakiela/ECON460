@@ -13,7 +13,7 @@ Hrdy, Sarah Blaffer.  (1981)  [_The Woman that Never Evolved_](https://ebookcent
 
 [Reading Guide:  _The Woman that Never Evolved_](ECON460-Hrdy-reading-guide.pdf)
 
-[Reading Response Assignment:  _The Woman that Never Evolved_](https://www.gradescope.com/courses/439200/assignments/2233713/) (due Sunday 9/11)
+[Reading Response:  _The Woman that Never Evolved_](https://www.gradescope.com/courses/439200/assignments/2233713/) (due Sunday 9/11)
 
 ### 2. Lessons from Ancient DNA
 

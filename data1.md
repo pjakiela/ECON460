@@ -62,9 +62,16 @@ introductions to data visualization on the web.  One of the most important decis
 [_Fundamentals of Data Visualization_](https://clauswilke.com/dataviz/index.html) has 
 an accessible discussion of color that is available [here](https://clauswilke.com/dataviz/color-basics.html).
 
+### Scatter Plots
+
+Scatter plots are a way of illustrating the relationship between two variables.  
+
+### Regression Analysis
+
 ## Presenting Your Results
 
-Your final product for this assignment should be a 3 to 5 page pdf containing your tables and figures and a short write-up of your analysis.  
+Your final product for this assignment should be a 3 to 5 page pdf containing your tables and figures and a short write-up of your analysis. You 
+will also submit a Stata do file or an R script that generates your results.  
 
 ## Additional Resources
 

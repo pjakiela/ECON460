@@ -10,20 +10,20 @@ your task is to examine the relationship between them and present your findings 
 
 There are two basic approaches to this assignment.  One approach is to consider the association between a measure of economic or social development (e.g. GDP per capita or the adult literacy rate) and an outcome related to women's participation in the economy (e.g. maternal mortality or take-up of modern contraception).  The other approach is to examine the empirical relationship between two gender-focused outcomes (e.g. the gender gap in primary school enrollment and the extent to which women's rights are legally protected).  
 
-There is no expectation that you uncover a causal relationship; your analysis can be purely descriptive.  That said, you may want to motivate your analysis with some plausible causal story.  Whether or not you choose to do this, you will want to think carefully about which of your two outcomes should serve as the dependent variable.
+There is no expectation that you uncover a causal relationship; your analysis can be purely descriptive.  That said, you may want to motivate your analysis with some plausible causal story; for example with a hypothesis that you might want to test (does economic development lead to gender equality).  Whether or not you choose to do this, you will want to think carefully about which of your two outcomes should serve as the dependent variable.
 
 ## Getting Your Data
 
 The first step is to choose your variables from the 
 World Bank's [World Development Indicators (WDI) database](https://databank.worldbank.org/source/world-development-indicators).  You can explore the 
 variables in the WDI by clicking on the `Database` tab on the left side of the WDI webpage, choosing the database that you want to explore, and 
-then clicking on the `Series` tab to see a list of available variables (see image below).  You should focus on the `World Development Indicators` and `Gender Statistics` databases (which you can choose on the `Database` tab).
+then clicking on the `Series` tab to see a list of available variables (see image below).  I recommend that you focus on the `World Development Indicators` and `Gender Statistics` databases (which you can choose on the `Database` tab).
 
 ![WDI web interface](wdi1.png)
 
 Once you've chosen a particular variable from the `Series` tab, you also need to choose the countries and years that you want.  You should select all the countries on the `Country` tab (but not the aggregates).  You may want to try a few different years:  you probably want a fairly recent year, but sometimes dats is not yet available for many countries for the most recent years.  After you've chosen a variable, a set of countries, and a year, you will be asked to `Apply Changes`.  When you do this, your data will appear on the webpage.  At that point, you will be able to see if a variable happens to be missing for most countries - in which case, you should move on to another variable.  You want to choose two variables that are available for most countires, so that your final data set contains at least 100 observations.  
 
-Once you've selected your variables, the last step is to download your data using the `Download options` tab in the upper right.  You can download your data as an Excel file or in csv format, either of which can be read into Stata or R.
+Once you've selected your variables, the last step is to download your data using the `Download options` tab in the upper right.  You can download your data as an Excel file or in csv format, either of which can be read into Stata or R.  If you end up choosing variables from two different databases, you may need to download two separate spreadsheets, which you can merge together.  
 
 ## Analyzing Your Data
 
@@ -34,6 +34,23 @@ Once you have your data, you will use it to produce (at least) four pieces of an
 - A scatter plot showing the relationship between your two variables
 - A regression table formally testing the relationship presented in the scatter plot
 
+
+
+Throughout the course, we will work to produce results that are replicable, which in practice means that we want to make it easy 
+for other researchers to rerun our code.  
+
 ## Presenting Your Results
 
 Your final product for this assignment should be a 3 to 5 page pdf containing your tables and figures and a short write-up of your analysis.  
+
+## Additional Resources
+
+[Williams Econ Stata Tutorial Videos](https://pjakiela.github.io/stata/)
+
+[Stata Cheat Sheets](https://www.stata.com/bookstore/stata-cheat-sheets/)
+
+[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+
+[R for Data Science](https://r4ds.had.co.nz/)
+
+

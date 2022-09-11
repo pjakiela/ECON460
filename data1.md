@@ -94,7 +94,7 @@ In grading your assignments, I will be looking for five things:
 2. Did you provide easy-to-read, well-commented code that generates your results?
 3. How good are your tables and figures?  
 4. How well have you explained your analysis in your write-up?
-5. have your presented your results in an elegant and easy-to-read format?
+5. Have your presented your results in an elegant and easy-to-read format?
 
 ## Additional Resources
 

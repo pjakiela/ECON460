@@ -34,10 +34,33 @@ Once you have your data, you will use it to produce (at least) four pieces of an
 - A scatter plot showing the relationship between your two variables
 - A regression table formally testing the relationship presented in the scatter plot
 
+### Summary Statistics
 
+Your summary statistics table should list the means, standard deviations, minima, maxima, and observations counts 
+for your two main variables of interest plus any additional controls that you wish to include.  It should be 
+formatted nicely, and it should be self-contained and self-explanatory.  A summary statistics table provides a simple 
+way for you and your readers to check for fundamental data construction errors (e.g. data that is missing for many observations, 
+or a dummy variable that takes on values other than 0 and 1).
 
-Throughout the course, we will work to produce results that are replicable, which in practice means that we want to make it easy 
-for other researchers to rerun our code.  
+### Visualizing One Variable 
+
+A histogram or a kernal density plot is a good way to summarize the distribution of a single variable.  Histograms function like 
+your summary statistics table, helping you spot irregularities and coding errors, and providing insights into the structure 
+of your data set.  
+
+When you include a figure or visualization in your written work, you should be using it to make a point - to convey something 
+about your data to the reader in a powerful and intuitive way.  This may or may not be something that you can do with a simple 
+histogram, depending on the nature of your variables.  You might find that a histogram of one of your variables tells 
+a compelling story (hey look, this measure of women's rights looks really bimodal, suggesting that countries either really 
+protect women's rights or completely fail to do so).  But you might not be so lucky.  If your two outcomes of interest 
+are both dummy variables, a histogram would not be very interesting.  In that case, you might choose to make a bar chart or another 
+type of visualization that illustrates how one of your varies across 
+[regions or income levels](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups).  
+
+As you start graphing your data, it is worth thinking about what makes for a good or bad data visualization.  There are several excellent 
+introductions to data visualization on the web.  One of the most important decisions you will face is how to use color.  Claus Wilke's 
+[_Fundamentals of Data Visualization_](https://clauswilke.com/dataviz/index.html) has 
+an accessible discussion of color that is available [here](https://clauswilke.com/dataviz/color-basics.html).
 
 ## Presenting Your Results
 

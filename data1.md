@@ -80,7 +80,21 @@ in a self-contained table.  It is acceptable to show a single regression, but yo
 ## Presenting Your Results
 
 Your final product for this assignment should be a 3 to 5 page pdf containing your tables and figures and a short write-up of your analysis. You 
-will also submit a Stata do file or an R script that generates your results.  
+will also submit a Stata do file or an R script that generates your results.  You can produce your write-up using word, latex, or rmarkdown - as long as 
+the end result is a pdf including your tables and figures plus your discussion of your work.
+
+You write-up should contain at least three parts.  First, an intro paragraph explaining the question you are asking, why it is important or interesting, 
+and how you will attempt to answer it.  Second, a **Data** section where you provide specific details on the variables you are using.  Your description of 
+your summary statistics table and your plot of one variable should appear in this section.  Finally, a **Results** or **Analysis** section where you 
+present your scatter plot and your regression analysis.
+
+In grading your assignments, I will be looking for five things:
+
+1. How interesting and well-motivated is your analysis?
+2. Did you provide easy-to-read, well-commented code that generates your results?
+3. How good are your tables and figures?  
+4. How well have you explained your analysis in your write-up?
+5. have your presented your results in an elegant and easy-to-read format?
 
 ## Additional Resources
 

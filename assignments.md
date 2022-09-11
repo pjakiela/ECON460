@@ -4,7 +4,7 @@
 | ------- | -------------- |
 | 9/11 | Reading:  _The Woman that Never Evolved_ |
 | 9/18 | Reading:  _Who We Are and How We Got Here_ |
-| 9/23 | Data Analysis Assignment 1 |
+| 9/23 | [Data Analysis Assignment 1](data1.html) |
 | 9/25 | Reading:  "Male and Female Farming Systems" |
 |      | Reading:  "On the Origins of Gender Roles:  Women and the Plough" |
 | 9/30 | Project:  Group Composition and Topic Statement |

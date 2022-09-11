@@ -17,10 +17,11 @@ There is no expectation that you uncover a causal relationship; your analysis ca
 The first step is to choose your variables from the 
 World Bank's [World Development Indicators (WDI) database](https://databank.worldbank.org/source/world-development-indicators).  You can explore the 
 variables in the WDI by clicking on the `Database` tab on the left side of the WDI webpage, choosing the database that you want to explore, and 
-then clicking on the `Series` tab to see a list of available variables (see image below).  You should focus on the `World Development Indicators` and `Gender Statistics` 
-databases (which you can choose on the `Database` tab).
+then clicking on the `Series` tab to see a list of available variables (see image below).  You should focus on the `World Development Indicators` and `Gender Statistics` databases (which you can choose on the `Database` tab).
 
 ![WDI web interface](wdi1.png)
+
+Once you've chosen a particular variable from the `Series` tab, you also need to choose the countries and years that you want.  You should select all the countries on the `Country` tab (but not the aggregates).  You may want to try a few different years:  you probably want a fairly recent year, but sometimes dats is not yet available for many countries for the most recent years.  After you've chosen a variable, a set of countries, and a year, you will be asked to `Apply Changes`.  When you do this, your data will appear on the webpage.  At that point, you will be able to see if a variable happens to be missing for most countries - in which case, you should move on to another variable.  You want to choose two variables that are available for most countires, so that your final data set contains at least 100 observations.
 
 ## Analyzing Your Data
 

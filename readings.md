@@ -21,9 +21,9 @@ Reich, David.  (2018)  _Who We Are and How We Got Here:  Ancient DNA and the New
 
 _This will be handed out on the first day of class._
 
-Reading Guide:  _Who We Are and How We Got Here_
+[Reading Guide:  _Who We Are and How We Got Here_](ECON460-Reich-reading-guide.pdf)
 
-Reading Response Assignment:  _Who We Are and How We Got Here_ (due Sunday 9/19)
+Reading Response:  _Who We Are and How We Got Here_ (due Sunday 9/19)
 
 ### 3. The Cow and The Plow, etc
 

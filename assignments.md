@@ -3,10 +3,9 @@
 | Date | Assignment |
 | ------- | -------------- |
 | 9/11 | Reading:  [_The Woman that Never Evolved_](https://www.gradescope.com/courses/439200/assignments/2233713/) |
-| 9/18 | Reading:  _Who We Are and How We Got Here_ |
+| 9/18 | Reading:  [_Who We Are and How We Got Here_](https://www.gradescope.com/courses/439200/assignments/2254927/) |
 | 9/23 | [Data Analysis Assignment 1](data1.html) |
-| 9/25 | Reading:  "Male and Female Farming Systems" |
-|      | Reading:  "On the Origins of Gender Roles:  Women and the Plough" |
+| 9/25 | Readings:  [The Plow and the Cow Week Readings](https://www.gradescope.com/courses/439200/assignments/2275112/) |
 | 9/30 | Project:  Group Composition and Topic Statement |
 | 10/2 | Reading:  _Understanding Early Civilizations_ |
 | 10/7 | Data Analysis Assignment 2 |

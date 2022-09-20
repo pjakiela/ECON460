@@ -33,7 +33,7 @@ Reading Guide:  [Male and Female Farming Systems](ECON460-Boserup-reading-guide-
 
 Alesina, Alberto, Paola Giuliano, and Nathan Nunn.  (2013)  “On the Origins of Gender Roles:  Women and the Plough,” _Quarterly Journal of Economics_, 128(2):  469-520.
 
-Reading Guide:  [Women and the Plough]ECON460-Plough-QJE-reading-guide-2022.09-19.pdf)
+Reading Guide:  [Women and the Plough](ECON460-Plough-QJE-reading-guide-2022.09-19.pdf)
 
 Reading Response:  [The Cow and the Plough Week](https://www.gradescope.com/courses/439200/assignments/2275112/) (due Sunday 9/25)
 

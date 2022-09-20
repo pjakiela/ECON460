@@ -23,17 +23,19 @@ _This will be handed out on the first day of class._
 
 [Reading Guide:  _Who We Are and How We Got Here_](ECON460-Reich-reading-guide.pdf)
 
-Reading Response:  _Who We Are and How We Got Here_ (due Sunday 9/19)
+Reading Response:  [_Who We Are and How We Got Here_](https://www.gradescope.com/courses/439200/assignments/2254927/) (due Sunday 9/19)
 
 ### 3. The Cow and The Plow, etc
 
-Boserup, Ester.  (1970)  Women’s Role in Economic Development, Chapter 1 (“Male and Female Farming Systems”).  
+Boserup, Ester.  (1970)  Women’s Role in Economic Development, Chapter 1 (“Male and Female Farming Systems”). 
+
+Reading Guide:  [Male and Female Farming Systems](ECON460-Boserup-reading-guide-2022.09-19.pdf)
 
 Alesina, Alberto, Paola Giuliano, and Nathan Nunn.  (2013)  “On the Origins of Gender Roles:  Women and the Plough,” _Quarterly Journal of Economics_, 128(2):  469-520.
 
-Reading Guide:  Women and the Plow Readings
+Reading Guide:  [Women and the Plough]ECON460-Plough-QJE-reading-guide-2022.09-19.pdf)
 
-Reading Response Assignment:  Women and the Plow (due Sunday 9/25)
+Reading Response:  [The Cow and the Plough Week](https://www.gradescope.com/courses/439200/assignments/2275112/) (due Sunday 9/25)
 
 ### 4. Women in Ancient Civilizations 
 

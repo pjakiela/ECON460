@@ -42,6 +42,8 @@ formatted nicely, and it should be self-contained and self-explanatory.  A summa
 way for you and your readers to check for fundamental data construction errors (e.g. data that is missing for many observations, 
 or a dummy variable that takes on values other than 0 and 1).
 
+Additional guidance on making a summary statistics table is available [here](https://pjakiela.github.io/stata/summ-stats-table.html).
+
 ### Visualizing One Variable 
 
 A histogram or a kernal density plot is a good way to summarize the distribution of a single variable.  Histograms function like 

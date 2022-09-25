@@ -8,7 +8,7 @@
 | 9/25 | Readings:  [The Plow and the Cow Week](https://www.gradescope.com/courses/439200/assignments/2275112/) |
 | 9/30 | Project:  Group Composition and Topic Statement |
 | 10/2 | Reading:  _Understanding Early Civilizations_ |
-| 10/7 | Data Analysis Assignment 2 |
+| 10/7 | [Data Analysis Assignment 2](data2.html) |
 | 10/12 | Mini-Presentations |
 | 10/16 | Reading:  "Girl power: The European marriage pattern and labor markets in the North Sea region in the late medieval and early modern period" |
 |     | Reading:   "Witchcraft, Weather, and Economic Growth in Renaissance Europe" |

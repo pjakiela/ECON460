@@ -1,5 +1,7 @@
 # Empirical Project
 
+Students will work individually or in groups of two or three to complete 
+an empirical project on a topic of their choice (that is realted to the course).  
 
 | Date | Activity |
 | ------- | -------------- |
@@ -11,6 +13,5 @@
 | 11/29 | Group Presentation slides due |
 | 11/30 | Group Presentations (in class) |
 | 12/5 | Group Presentations (in class) |
-| 12/7 | Group Presentations (in class) |
 | 12/7 | Group Presentations (in class) |
 | 12/16 | Empirical Projects due |

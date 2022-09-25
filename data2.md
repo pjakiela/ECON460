@@ -41,7 +41,7 @@ by `isocode` before merging the two data sets together.  The name of the country
 
 Use the `merge` command to merge the two data sets together.  How many observations merge successfully?  If there are 
 both observations in the master data set (the one that you are starting with) that do not merge and observations in 
-the using data set (the data set you are mergine in) that do not merge, make sure that they are not the same countries.  If 
+the using data set (the data set you are merging in) that do not merge, make sure that they are not the same countries.  If 
 necessary, modify the `isocode` variable so that you merge as many countries as you can.
 
 ## Replicating Alesina, Giuliano, and Nunn (2013)
@@ -64,12 +64,12 @@ Now write an analysis do file that produces the following:
 1. A nicely-formatted, self-contained summary statistics table reporting the means, standard deviations, minima, maxima, and observation counts for the `plow` variable, the `WBL_index` variable, the additional controls from Table III, and any other variables that you will use in your analysis.
 2. A horizontal bar graph (Stata command:  `graph hbar`) showing the mean of the traditional plow use variable by World Bank country region.  Make sure that the bars/regions are sorted in order of increasing or decreasing length, that you've changed the colors of the bars, and that you've labeled the horizontal axis appropriately.
 3. Two histograms of `WBL_index`, one by World Bank country income categories and the other by World Bank regions (omitting the "High Income:  OECD" region from this one because it is covered in the first histogram).  Make sure that the histograms are sorted in an intuitive way within each figure, that you make good use of color, and that the figures are self-contained and label appropriately.
-4. A rergession table where you replicate the specifications in Columns 1 and 2 of Table III, but using `WBL_index` as the dependent variable.  Your table should be nicely formatted and labeled and entirely self-contained.
+4. A regression table where you replicate the specifications in Columns 1 and 2 of Table III, but using `WBL_index` as the dependent variable.  Your table should be nicely formatted and labeled and entirely self-contained.
 5. One additional regression table presenting some piece of additional analysis (of this data) that you find interesting.
 
 Once you've produced these pieces of analysis, you should produce a short written brief or memo describing your analysis and your findings, and why they are interesting (particularly in relation to the results reported in the original plow paper).  Please be sure to describe each of your tables and figures in the text.  
 
-When you complete the assignment, you will upload the pdf of your written piece (including the tables and figures), your cleaning/merging do file, and your analyisis do file.
+When you complete the assignment, you will upload the pdf of your written piece (including the tables and figures), your cleaning/merging do file, and your analysis do file.
 
 
 

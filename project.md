@@ -1,7 +1,5 @@
 # Empirical Project
 
-<br>
-
 Students will work individually or in groups of two or three to complete 
 an empirical project on a topic of their choice (that is related to the course).  Empirical 
 projects should fall into one of the broad categories of empirical micro papers 

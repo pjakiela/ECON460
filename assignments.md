@@ -6,7 +6,7 @@
 | 9/18 | Reading:  [_Who We Are and How We Got Here_](https://www.gradescope.com/courses/439200/assignments/2254927/) |
 | 9/23 | [Data Analysis Assignment 1](data1.html) |
 | 9/25 | Readings:  [The Plow and the Cow Week](https://www.gradescope.com/courses/439200/assignments/2275112/) |
-| 9/30 | Project:  Group Composition and Topic Statement |
+| 9/30 | Project:  [Group Composition and Topic Statement](https://www.gradescope.com/courses/439200/assignments/2292078/) |
 | 10/2 | Reading:  _Understanding Early Civilizations_ |
 | 10/7 | [Data Analysis Assignment 2](data2.html) |
 | 10/12 | Mini-Presentations |
@@ -15,7 +15,7 @@
 | 10/21 | Reading:  "More than 100 Million Women Are Missing" |
 |       | Reading:  "Why Are Indian Children So Short? The Role of Birth Order and Son Preference" |
 |       | Reading:  "Missing Women and the Price of Tea in China: The Effect of Sex-Specific Earnings on Sex Imbalance" |
-| 10/23 | Project:  Data Analysis Assignment 3 |
+| 10/23 | Data Analysis Assignment 3 |
 | 10/28 | Reading:  "Gender Gaps in Education: The Long View" |
 |       | Reading:  "Do Labor market Opportunities Affect Young Women’s Work and Family Decisions? Experimental Evidence from India" |
 | 11/4 | Reading:  "The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions" |

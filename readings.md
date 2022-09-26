@@ -23,27 +23,27 @@ _This will be handed out on the first day of class._
 
 [Reading Guide:  _Who We Are and How We Got Here_](ECON460-Reich-reading-guide.pdf)
 
-Reading Response:  [_Who We Are and How We Got Here_](https://www.gradescope.com/courses/439200/assignments/2254927/) (due Sunday 9/19)
+[Reading Response:  _Who We Are and How We Got Here_](https://www.gradescope.com/courses/439200/assignments/2254927/) (due Sunday 9/19)
 
 ### 3. The Cow and The Plow, etc
 
 Boserup, Ester.  (1970)  Women’s Role in Economic Development, Chapter 1 (“Male and Female Farming Systems”). 
 
-Reading Guide:  [Male and Female Farming Systems](ECON460-Boserup-reading-guide-2022-09-19.pdf)
+[Reading Guide:  Male and Female Farming Systems](ECON460-Boserup-reading-guide-2022-09-19.pdf)
 
 Alesina, Alberto, Paola Giuliano, and Nathan Nunn.  (2013)  “On the Origins of Gender Roles:  Women and the Plough,” _Quarterly Journal of Economics_, 128(2):  469-520.
 
-Reading Guide:  [Women and the Plough](ECON460-Plough-QJE-reading-guide-2022-09-19.pdf)
+[Reading Guide:  Women and the Plough](ECON460-Plough-QJE-reading-guide-2022-09-19.pdf)
 
-Reading Response:  [The Cow and the Plough Week](https://www.gradescope.com/courses/439200/assignments/2275112/) (due Sunday 9/25)
+[Reading Response:  The Cow and the Plough Week](https://www.gradescope.com/courses/439200/assignments/2275112/) (due Sunday 9/25)
 
 ### 4. Women in Ancient Civilizations 
 
 Trigger, Bruce.  2003. Understanding Early Civilizations, Chapter 2 (“Comparative Studies”, just skim this to get a sense of the overall scope of Trigger’s research project) and Chapter 9 (“Family Organization and Gender Roles”).  
 
-Reading Guide:  _Understanding Early Civilizations_
+[Reading Guide:  _Understanding Early Civilizations_](ECON460-Trigger-reading-guide-2022-09-26.pdf)
 
-Reading Response Assignment:  _Understanding Early Civilizations_ (due Sunday 10/2)
+[Reading Response:  _Understanding Early Civilizations_](https://www.gradescope.com/courses/439200/assignments/2295453/) (due Sunday 10/2)
 
 ### 5. Women in Early Modern Europe  
 
@@ -53,7 +53,7 @@ Oster, Emily.  (2004)  “Witchcraft, Weather, and Economic Growth in Renaissanc
 
 Reading Guide:  Women in Early Modern Europe
 
-Reading Response Assignment:  Women in Early Modern Europe (due Sunday 10/16)
+Reading Response:  Women in Early Modern Europe (due Sunday 10/16)
 
 ### 6. Missing Women and Investments in Girls 
 
@@ -65,7 +65,7 @@ Qian, Nancy.  (2008)  “Missing Women and the Price of Tea in China:  The Effec
 
 Reading Guide:  Missing Women and Investments in Girls
 
-Reading Response Assignment:  Missing Women and Investments in Girls (due Friday 10/21)
+Reading Response:  Missing Women and Investments in Girls (due Friday 10/21)
 
 ### 7. Girls’ Education and Women’s Employment Opportunities 
 
@@ -75,7 +75,7 @@ Jensen, Robert.  (2012)  “Do Labor market Opportunities Affect Young Women’s
 
 Reading Guide:  Girls’ Education and Women’s Employment Opportunities 
 
-Reading Response Assignment:  Girls’ Education and Women’s Employment Opportunities (due Friday 10/28)
+Reading Response:  Girls’ Education and Women’s Employment Opportunities (due Friday 10/28)
 
 ### 8. Labor Force Implications of Reproductive Choices 
 
@@ -83,7 +83,7 @@ Goldin, Claudia, and Lawrence F. Katz.  (2002)  “The Power of the Pill:  Oral 
 
 Reading Guide:  The Power of the Pill 
 
-Reading Response Assignment:  The Power of the Pill (due Friday 11/4)
+Reading Response:  The Power of the Pill (due Friday 11/4)
 
 ### 9. The Behavioral Economics of Women’s Work 
 
@@ -95,7 +95,7 @@ Dhar, Diva, Tarun Jain, and Seema Jayachandran.  (2022)  “Reshaping Adolescent
 
 Reading Guide
 
-Reading Response Assignment (due Friday 11/11)
+Reading Response (due Friday 11/11)
 
 ### 10. Women in Economics 
 
@@ -105,4 +105,4 @@ Wu, Alice.  (2020)  “Gender Bias in Rumors Among Professionals:  An Identity-B
 
 Reading Guide
 
-Reading Response Assignment (due Friday 11/18)
+Reading Response (due Friday 11/18)

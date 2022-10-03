@@ -1,6 +1,6 @@
 # Data Analysis Assignment 2
 
-_Data Assignment 2 is due by 11:00 PM on October 7._
+_Data Assignment 2 is due by 11:00 PM on October 9._
 
 ## Overview
 

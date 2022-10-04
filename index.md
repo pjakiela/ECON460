@@ -4,6 +4,8 @@ _Women, Work, and the World Economy from 5,000 BC to the Present_
 
 <br>
 
+## Course Materials
+
 [Syllabus](https://pjakiela.github.io/ECON460/ECON460syllabus.pdf)  
 
 [Reading List](https://pjakiela.github.io/ECON460/readings.html) 
@@ -14,6 +16,8 @@ _Women, Work, and the World Economy from 5,000 BC to the Present_
 
 <br>
 
+## Assignments
+
 [Data Assignment 1](https://pjakiela.github.io/ECON460/data1.html)  
 
 [Data Assignment 2](https://pjakiela.github.io/ECON460/data2.html)  
@@ -22,5 +26,14 @@ Data Assignment 3
 
 [Mini-Presentation](https://pjakiela.github.io/ECON460/mini-presentation.html)  
 
-[Empirical Project](https://pjakiela.github.io/ECON460/project.html)
+[Empirical Project](https://pjakiela.github.io/ECON460/project.html)  
 
+<br>
+
+## Stata Resources
+
+[Tutorial Videos](https://pjakiela.github.io/stata/)  
+
+[Making Tables](https://pjakiela.github.io/stata/making-tables.html)
+
+[Data Visualization Tips](https://pjakiela.github.io/stata/dataviz.html)

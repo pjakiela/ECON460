@@ -47,13 +47,15 @@ Trigger, Bruce.  2003. Understanding Early Civilizations, Chapter 2 (“Comparat
 
 ### 5. Women in Early Modern Europe  
 
-De Moor, Tine, and Jan Luiten van Zanden.  (2010)  “Girl power:  The European marriage pattern and labor markets in the North Sea region in the late medieval and early modern period,” _Economic History Review_, 63(1):  1-33.
+de Moor, Tine, and Jan Luiten van Zanden.  (2010)  “Girl power:  The European marriage pattern and labor markets in the North Sea region in the late medieval and early modern period,” _Economic History Review_, 63(1):  1-33.
+
+[Reading Guide:  Girl Power](ECON460-EMP-reading-guide-2022-10-10.pdf)
 
 Oster, Emily.  (2004)  “Witchcraft, Weather, and Economic Growth in Renaissance Europe,” _Journal of Economic Perspectives_, 18(1):  215-228.
 
-Reading Guide:  Women in Early Modern Europe
+[Reading Guide:  Witchcraft, Weather and Economic Growth](ECON460-witches-reading-guide-2022-10-10.pdf)  
 
-Reading Response:  Women in Early Modern Europe (due Sunday 10/16)
+[Reading Response:  Women in Early Modern Europe](https://www.gradescope.com/courses/439200/assignments/2341367) (due Sunday 10/16)
 
 ### 6. Missing Women and Investments in Girls 
 

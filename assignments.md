@@ -7,11 +7,11 @@
 | 9/23 | [Data Analysis Assignment 1](data1.html) |
 | 9/25 | Readings:  [The Plow and the Cow Week](https://www.gradescope.com/courses/439200/assignments/2275112/) |
 | 9/30 | Project:  [Group Composition and Topic Statement](https://www.gradescope.com/courses/439200/assignments/2292078/) |
-| 10/2 | Reading:  _Understanding Early Civilizations_ |
+| 10/2 | [Reading:  _Understanding Early Civilizations_](https://www.gradescope.com/courses/439200/assignments/2295453/) |
 | 10/9 | [Data Analysis Assignment 2](data2.html) |
-| 10/12 | Mini-Presentations |
-| 10/16 | Reading:  "Girl power: The European marriage pattern and labor markets in the North Sea region in the late medieval and early modern period" |
-|     | Reading:   "Witchcraft, Weather, and Economic Growth in Renaissance Europe" |
+| 10/12 | [Mini-Presentations](https://www.gradescope.com/courses/439200/assignments/2341459/) |
+| 10/16 | [Reading:  "Girl power: The European marriage pattern and labor markets in the North Sea region in the late medieval and early modern period"](https://www.gradescope.com/courses/439200/assignments/2341367/) |
+|     | [Reading:   "Witchcraft, Weather, and Economic Growth in Renaissance Europe"](https://www.gradescope.com/courses/439200/assignments/2341367/) |
 | 10/21 | Reading:  "More than 100 Million Women Are Missing" |
 |       | Reading:  "Why Are Indian Children So Short? The Role of Birth Order and Son Preference" |
 |       | Reading:  "Missing Women and the Price of Tea in China: The Effect of Sex-Specific Earnings on Sex Imbalance" |

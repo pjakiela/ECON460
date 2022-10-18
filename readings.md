@@ -71,7 +71,7 @@ Qian, Nancy.  (2008)  “Missing Women and the Price of Tea in China:  The Effec
 
 [Reading Guide:  Missing Women and the Price of Tea in China](ECON460-price-of-tea-in-china-guide-2022-10-18.pdf)  
 
-Reading Response:  Missing Women and Investments in Girls (due Friday 10/21)
+[Reading Response:  Missing Women and Investments in Girls](https://www.gradescope.com/courses/439200/assignments/2362686/) (due Saturday 10/22)
 
 ### 7. Girls’ Education and Women’s Employment Opportunities 
 

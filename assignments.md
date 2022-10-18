@@ -12,9 +12,9 @@
 | 10/12 | [Mini-Presentations](https://www.gradescope.com/courses/439200/assignments/2341459/) |
 | 10/16 | [Reading:  "Girl power: The European marriage pattern and labor markets in the North Sea region in the late medieval and early modern period"](https://www.gradescope.com/courses/439200/assignments/2341367/) |
 |     | [Reading:   "Witchcraft, Weather, and Economic Growth in Renaissance Europe"](https://www.gradescope.com/courses/439200/assignments/2341367/) |
-| 10/21 | Reading:  "More than 100 Million Women Are Missing" |
-|       | Reading:  "Why Are Indian Children So Short? The Role of Birth Order and Son Preference" |
-|       | Reading:  "Missing Women and the Price of Tea in China: The Effect of Sex-Specific Earnings on Sex Imbalance" |
+| 10/22 | [Reading:  "More than 100 Million Women Are Missing"](https://www.gradescope.com/courses/439200/assignments/2362686/) |
+|       | [Reading:  "Why Are Indian Children So Short? The Role of Birth Order and Son Preference"](https://www.gradescope.com/courses/439200/assignments/2362686/) |
+|       | [Reading:  "Missing Women and the Price of Tea in China: The Effect of Sex-Specific Earnings on Sex Imbalance"](https://www.gradescope.com/courses/439200/assignments/2362686/) |
 | 10/23 | Data Analysis Assignment 3 |
 | 10/28 | Reading:  "Gender Gaps in Education: The Long View" |
 |       | Reading:  "Do Labor market Opportunities Affect Young Women’s Work and Family Decisions? Experimental Evidence from India" |

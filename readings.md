@@ -59,13 +59,17 @@ Oster, Emily.  (2004)  “Witchcraft, Weather, and Economic Growth in Renaissanc
 
 ### 6. Missing Women and Investments in Girls 
 
-Sen, Amartya.  (1990)  “More than 100 Million Women Are Missing,” _The New York Review of Books_.
+Sen, Amartya.  (1990)  “More than 100 Million Women Are Missing,” _The New York Review of Books_.  
+
+[Reading Guide:  Missing Women](ECON460-missing-women-guide-2022-10-18.pdf)  
 
 Jayachandran, Seema, and Rohini Pande.  (2017)  “Why Are Indian Children So Short?  The Role of Birth Order and Son Preference,” _American Economic Review_, 107(9):  2600-2629.
 
+[Reading Guide:  Why Are Indian Children So Short?](ECON460-Indian-children-guide-2022-10-18.pdf)  
+
 Qian, Nancy.  (2008)  “Missing Women and the Price of Tea in China:  The Effect of Sex-Specific Earnings on Sex Imbalance,” _Quarterly Journal of Economics_, 123(3):  1251-85.
 
-Reading Guide:  Missing Women and Investments in Girls
+[Reading Guide:  Missing Women and the Price of Tea in China](ECON460-price-of-tea-in-china-guide-2022-10-18.pdf)  
 
 Reading Response:  Missing Women and Investments in Girls (due Friday 10/21)
 

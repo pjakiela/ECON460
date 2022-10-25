@@ -35,9 +35,35 @@ are common to all the Afrobarometer data sets:
 
 You also need to keep data on our key outcomes of interest.  In each round, respondents 
 were asked whether they agreed more with the statement 
-> Men make better political leaders than women, and should be elected rather than women.
-or the statement 
-> Women should have the same chance of being elected to political office as men.
+> Men make better political leaders than women, and should be elected rather than women.  
+or the statement  
+> Women should have the same chance of being elected to political office as men.  
 Responses to this question appear as variable `Q22` in Round 5, as `Q18` in Round 6, 
 and as `Q16` in Round 7.
+
+To build your combined data set, keep only the variables you need from each round and then use Stata's `append` 
+command to put them together.  Then familiarize yourself with the variables in your combined data set.  Generate 
+new, clean variables for use in your analysis - setting any variables to missing as needed (for example, if someone 
+answers "Don't Know").  
+
+The variable `DATEINTR` is in Stata's date format, which can be a challenge (though there is plenty of online 
+documentation).  To create numeric variables for the month and the year in which a survey interview took place, 
+use the code
+```
+gen year = year(dofc(DATE))
+gen month = month(dofc(DATE))
+```
+
+To generate a dummy variable for interviews that occured when a female head-of-state was in power, you might want 
+to merge in the data from the spreadsheet on female leaders.  Or, you might just want to code this variable by 
+hand, since the number of female leaders is small.  To do this, you will need to use Stata's date format 
+(again).  Here is how I would code up a dummy variable for observations in Malawi during the period when 
+Joyce Banda was the president:
+```
+gen joycebanda = 0
+label var joycebanda "Joyce Banda was president"
+replace joycebanda = 1 if (country=="Malawi" & dofc(DATE)>td(7apr2012) & dofc(DATE)<td(31may2014))
+```
+You can extend this code to instead indicate whether any female leader was in power.
+
 

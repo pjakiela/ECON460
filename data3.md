@@ -35,9 +35,13 @@ are common to all the Afrobarometer data sets:
 
 You also need to keep data on our key outcomes of interest.  In each round, respondents 
 were asked whether they agreed more with the statement 
+
 > Men make better political leaders than women, and should be elected rather than women.  
+
 or the statement  
+
 > Women should have the same chance of being elected to political office as men.  
+
 Responses to this question appear as variable `Q22` in Round 5, as `Q18` in Round 6, 
 and as `Q16` in Round 7.
 
@@ -65,5 +69,30 @@ label var joycebanda "Joyce Banda was president"
 replace joycebanda = 1 if (country=="Malawi" & dofc(DATE)>td(7apr2012) & dofc(DATE)<td(31may2014))
 ```
 You can extend this code to instead indicate whether any female leader was in power.
+
+## Analysis
+
+Your analysis should include the following:
+
+1. A summary statistics table
+2. A regression table
+3. A falsification test using your main specification, but with different outcome variables
+4. A falsification test using an alternative definition of treatment
+
+Your main regression table should report estimates of the causal impact of having a female 
+head-of-state on beliefs about women politicians.  Define 
+
+## Presentation
+
+You should present your results in a 3 to five page note (i.e. a mini-paper), as you have for 
+your other assignments.  
+
+Your note should begin with an Introduction.  Motivate your analysis in reference to the research 
+question.  Do not begin with a narrative opening sentence like "For this assignment, I decided 
+to look at..."  In your first sentence, explain why the analysis you are about to present is of interest to an economist 
+studying gender.  Then use the remainder of your introductory paragraph to explain what you will do, and 
+why you think your results are important.
+
+The next section 
 
 

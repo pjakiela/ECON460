@@ -16,8 +16,8 @@
 |       | [Reading:  "Why Are Indian Children So Short? The Role of Birth Order and Son Preference"](https://www.gradescope.com/courses/439200/assignments/2362686/) |
 |       | [Reading:  "Missing Women and the Price of Tea in China: The Effect of Sex-Specific Earnings on Sex Imbalance"](https://www.gradescope.com/courses/439200/assignments/2362686/) |
 | 10/23 | Data Analysis Assignment 3 |
-| 10/28 | Reading:  "Gender Gaps in Education: The Long View" |
-|       | Reading:  "Do Labor market Opportunities Affect Young Women’s Work and Family Decisions? Experimental Evidence from India" |
+| 10/28 | Reading:  ["Gender Gaps in Education: The Long View"](https://www.gradescope.com/courses/439200/assignments/2383180/) |
+|       | [Reading:  "Do Labor market Opportunities Affect Young Women’s Work and Family Decisions? Experimental Evidence from India"](https://www.gradescope.com/courses/439200/assignments/2383180/) |
 | 11/4 | Reading:  "The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions" |
 | 11/6 | Project:  Annotated Bibliography |
 | 11/11 | Reading: "Do Women Shy Away from Competition? Do Men Compete Too Much?" |

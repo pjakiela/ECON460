@@ -1,10 +1,10 @@
 # Data Analysis Assignment 3
 
-_Data Assignment 3 is due ???._
+_Data Assignment 3 is due ???_
 
 ## Overview
 
-For this assignment, we will be using round 5, 6, and 7 of the [Afrobarometer](https://www.afrobarometer.org/).  Afrobarometer 
+For this assignment, we will be using Rounds 5, 6, and 7 of the [Afrobarometer](https://www.afrobarometer.org/) Surveys.  The Afrobarometer 
 data contains information on political attitudes, values, and beliefs from representative population samples in 36 African countries.  We will 
 combine the Afrobarometer data on information about female heads-of-state in Africa to estimate the impact of female leaders on gender 
 attitudes in a two-way fixed effects framework.
@@ -33,5 +33,11 @@ are common to all the Afrobarometer data sets:
 - `Q97` is the respondent's level of education
 - `Q101` is the respondent's gender
 
-You also need to keep data on our key outcomes of interest:  
+You also need to keep data on our key outcomes of interest.  In each round, respondents 
+were asked whether they agreed more with the statement 
+> Men make better political leaders than women, and should be elected rather than women.
+or the statement 
+> Women should have the same chance of being elected to political office as men.
+Responses to this question appear as variable `Q22` in Round 5, as `Q18` in Round 6, 
+and as `Q16` in Round 7.
 

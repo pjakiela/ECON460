@@ -22,7 +22,7 @@ _Women, Work, and the World Economy from 5,000 BC to the Present_
 
 [Data Assignment 2](https://pjakiela.github.io/ECON460/data2.html)  
 
-Data Assignment 3
+[Data Assignment 3](https://pjakiela.github.io/ECON460/data3.html)
 
 [Mini-Presentation](https://pjakiela.github.io/ECON460/mini-presentation.html)  
 

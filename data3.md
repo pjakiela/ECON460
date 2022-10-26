@@ -79,20 +79,42 @@ Your analysis should include the following:
 3. A falsification test using your main specification, but with different outcome variables
 4. A falsification test using an alternative definition of treatment
 
+Your summary statistics table should include data on all the variables used in your analysis.  It 
+should be nicely formatted (that goes without saying at this point).
+
 Your main regression table should report estimates of the causal impact of having a female 
-head-of-state on beliefs about women politicians.  Define 
+head-of-state on beliefs about women politicians.  In addition to the independent variable of 
+interest, you should include country and year fixed effects and cluster your standard errors 
+at the country level.  You should also control for age and educational attainment.  Column 1 
+should look at the entire sample, Columns 2 and 3 should show separate results for men and women, 
+and Columns 4 and 5 should show separate results for urban and rural areas.  
+
+Your third table should include a falsification test:  you should look at the "impact" of 
+having a female head-of-state on respondent gender, age, educational attainment, and 
+rural or urban residence in a two-way fixed effects framework (controlling for year and 
+country fixed  effects).
+
+Your fourth table will look at a different falsification test:  does having a female head-of-state 
+one year in the future impact gender attitudes?  To explore this hypothesis, you need to create a 
+dummy for having a female head-of-state next year (i.e. in the year after the survey).  Regress 
+gender attitudes on this variable, controlling for country and year fixed effects.
 
 ## Presentation
 
 You should present your results in a 3 to five page note (i.e. a mini-paper), as you have for 
 your other assignments.  
 
-Your note should begin with an Introduction.  Motivate your analysis in reference to the research 
+Your note should begin with an **Introduction**.  Motivate your analysis in reference to the research 
 question.  Do not begin with a narrative opening sentence like "For this assignment, I decided 
 to look at..."  In your first sentence, explain why the analysis you are about to present is of interest to an economist 
 studying gender.  Then use the remainder of your introductory paragraph to explain what you will do, and 
 why you think your results are important.
 
-The next section 
+A **Data** section should come next.  Describe the data sets used in your analysis, and present your summary 
+statistics.  How do country-years with a female head-of-state differ from the rest of the sample?
+
+The rest of your note should describe your **Analysis**.  Present your results.  Devote at least a paragraph 
+to each table of results.  Explain the regression specifications that you use.  Discuss your coefficient estimates 
+and their level of statistical significance, and summarize the main conclusions from each table.
 
 

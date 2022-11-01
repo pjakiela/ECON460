@@ -89,9 +89,9 @@ Jensen, Robert.  (2012)  “Do Labor market Opportunities Affect Young Women’s
 
 Goldin, Claudia, and Lawrence F. Katz.  (2002)  “The Power of the Pill:  Oral Contraceptives and Women’s Career and Marriage Decisions,” _Journal of Political Economy_, 110(4):  730-770.
 
-Reading Guide:  The Power of the Pill 
+[Reading Guide:  The Power of the Pill](ECON460-the-pill-guide-2022-11-01.pdf)  
 
-Reading Response:  The Power of the Pill (due Friday 11/4)
+[Reading Response:  The Power of the Pill](https://www.gradescope.com/courses/439200/assignments/2402731/) (due Friday 11/4)  
 
 ### 9. The Behavioral Economics of Women’s Work 
 

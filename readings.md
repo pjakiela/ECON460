@@ -75,13 +75,15 @@ Qian, Nancy.  (2008)  “Missing Women and the Price of Tea in China:  The Effec
 
 ### 7. Girls’ Education and Women’s Employment Opportunities 
 
-Evans, David K., Maryam Akmal, and Pamela Jakiela.  (2021)  “Gender Gaps in Education:  The Long View,” _IZA Journal of Development and Migration_, 12(1).
+Evans, David K., Maryam Akmal, and Pamela Jakiela.  (2021)  “Gender Gaps in Education:  The Long View,” _IZA Journal of Development and Migration_, 12(1).  
+
+[Reading Guide:  Gender Gaps in Education](ECON460-gender-gaps-education-guide-2022-10-24.pdf)  
 
 Jensen, Robert.  (2012)  “Do Labor market Opportunities Affect Young Women’s Work and Family Decisions?  Experimental Evidence from India,” _Quarterly Journal of Economics_, 127(2):  753-792.
 
-Reading Guide:  Girls’ Education and Women’s Employment Opportunities 
+[Reading Guide:  Do Labor market Opportunities Affect Young Women’s Work and Family Decisions](ECON460-BPO-guide-2022-10-25.pdf)  
 
-Reading Response:  Girls’ Education and Women’s Employment Opportunities (due Friday 10/28)
+[Reading Response:  Girls’ Education and Women’s Employment Opportunities](https://www.gradescope.com/courses/439200/assignments/2383180/) (due Friday 10/28)
 
 ### 8. Labor Force Implications of Reproductive Choices 
 

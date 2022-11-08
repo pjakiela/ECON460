@@ -95,15 +95,19 @@ Goldin, Claudia, and Lawrence F. Katz.  (2002)  “The Power of the Pill:  Oral 
 
 ### 9. The Behavioral Economics of Women’s Work 
 
-Niederle, Muriel, and Lise Vesterlund.  (2007)  “Do Women Shy Away from Competition?  Do Men Compete Too Much?” _Quarterly Journal of Economics_, 122(3):  1067-1101.
+Niederle, Muriel, and Lise Vesterlund.  (2007)  “Do Women Shy Away from Competition?  Do Men Compete Too Much?” _Quarterly Journal of Economics_, 122(3):  1067-1101.  
 
-Coffman, Katherine Baldiga.  (2014)  “Evidence on Self-Stereotyping and the Contribution of Ideas,” _Quarterly Journal of Economics_, 129(4):  1625-1660.
+[Reading Guide:  Do Women Shy Away from Competition?](ECON460-niederle-vesterlund-guide-2022-11-08.pdf)  
+
+Coffman, Katherine Baldiga.  (2014)  “Evidence on Self-Stereotyping and the Contribution of Ideas,” _Quarterly Journal of Economics_, 129(4):  1625-1660.  
+
+[Reading Guide:  Self-Stereotyping and the Contribution of Ideas](ECON460-coffman-guide-2022-11-08.pdf)  
 
 Dhar, Diva, Tarun Jain, and Seema Jayachandran.  (2022)  “Reshaping Adolescents' Gender Attitudes: Evidence from a School-Based Experiment in India,” _American Economic Review_, 112(3): 899-927.  
 
-Reading Guide
+[Reading Guide:  Reshaping Adolescents' Gender Attitudes](ECON460-dhar-et-al-guide-2022-11-08.pdf)  
 
-Reading Response (due Friday 11/11)
+[Reading Response:  Behavioral Economics of Gender](https://www.gradescope.com/courses/439200/assignments/2422770/) (due Friday 11/11)
 
 ### 10. Women in Economics 
 

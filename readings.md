@@ -115,6 +115,6 @@ Wu, Alice.  (2018)  “Gendered Language on the Economics Job Market Rumors Foru
 
 Wu, Alice.  (2020)  “Gender Bias in Rumors Among Professionals:  An Identity-Based Interpretation,” Review of Economics and Statistics, 102(5):  867-880.  
 
-Reading Guide
+[Reading Guide:  EJMR](ECON460-wu-guide-2022-11.15.pdf)  
 
-Reading Response (due Friday 11/18)
+[Reading Response](https://www.gradescope.com/courses/439200/assignments/2441566/) (due Friday 11/18)

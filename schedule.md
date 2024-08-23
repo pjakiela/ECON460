@@ -3,29 +3,33 @@
 
 |  Date  |  Topic  |
 | ------------ | ------- |
-| 9/12 | Overview of the Class |
-| 9/14 | Gender Norms Among Non-Human Primates |
-| 9/19 | Methods Monday:  Data Management |
-| 9/21 | Lessons from Ancient DNA |
-| 9/26 | Methods Monday:  Research Designs in Empirical Microeconomics |
-| 9/28 | The Cow and the Plow |
-| 10/3 | Methods Monday:  Reviewing the Literature |
-| 10/5 | Women in Ancient Civilizations | 
-| 10/10 | Reading Period (NO CLASS) |
-| 10/12 | Mini-Presentations on Ancient Civilizations |
-| 10/17 | Women in Early Modern Europe |
-| 10/19 | Research Group Meetings (NO CLASS) |
-| 10/24 | Missing Women and Investments in Girls |
-| 10/26 | Missing Women and Investments in Girls |
-| 10/31 | Girls' Education and Women's Employment |
-| 11/2 | Girls' Education and Women's Employment |
-| 11/7 | The Labor Force Implications of Reproductive Choices |
-| 11/9 | The Labor Force Implications of Reproductive Choices |
-| 11/14 | The Behavioral Economics of Women's Work |
-| 11/16 | The Behavioral Economics of Women's Work |
-| 11/21 | Women in the Economics Profession |
-| 11/23 | Thanksgiving (NO CLASS) |
-| 11/28 | Last Minute Presentation Meetings (NO CLASS) |
-| 11/30 | STUDENT PRESENTATIONS |
-| 12/5 | STUDENT PRESENTATIONS |
-| 12/7 | STUDENT PRESENTATIONS |
+| 9/6 | Introductions |
+| 9/9 | Methods Monday:  Data Management |
+| 9/11 | Gender Norms Among Non-Human Primates |
+| 9/16 | Methods Monday:  Research Designs in Empirical Microeconomics |
+| 9/23 | The Deep Roots of Modern Gender Norms |
+| 9/25 | **Deep Roots of Gender Norms Mini-Presentations** |
+| 9/30 | Methods Monday:  Difference-in-Differences |
+| 10/2 | Women in Early Modern Europe | 
+| 10/7 | Methods Monday:  Literature Reviews and Citations |
+| 10/9 | The World Wars and the Emergence of Modern Gender Norms  |
+| 10/14 | _Reading Period_ |
+| 10/16 | Missing Women and Investments in Girls |
+| 10/21 | Girls' Education |
+| 10/23 | Women's Labor Force Participation in Patriarchal Societies |
+| 10/28 | Guest speaker:  Anna Weber (West Point) |
+| 10/30 | Parental Leave, Childcare, and the Child Penalty |
+| 11/4 | Reproductive Rights |
+| 11/6 | Post-Election Day Movie:  Queen of Katwe |
+| 11/11 | Psychological Constraints and Subconscious Bias  |
+| 11/13 | Guest speaker:  Katherine Keith (Williams CS) |
+| 11/18 | Women in Economics I: Research Productivity and Tenure  |
+| 11/20 | Women in Economics II: Toxicity in Professional Environments  |
+| 11/25 | _Thanksgiving_ |
+| 11/27 | _Thanksgiving_ |
+| 12/2 | **Student Presentations** |
+| 12/4 | **Student Presentations** |
+| 12/6 | **Student Presentations** |
+
+_Italics indicates no regularly scheduled class meeting._  
+**Bold indicates student presentations.**

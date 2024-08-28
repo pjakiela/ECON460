@@ -7,6 +7,7 @@
 | 9/9 | Methods Monday:  Data Management |
 | 9/11 | Gender Norms Among Non-Human Primates |
 | 9/16 | Methods Monday:  Research Designs in Empirical Microeconomics |
+| 9/18 | Lessons from Ancient DNA |
 | 9/23 | The Deep Roots of Modern Gender Norms |
 | 9/25 | **Deep Roots of Gender Norms Mini-Presentations** |
 | 9/30 | Methods Monday:  Difference-in-Differences |

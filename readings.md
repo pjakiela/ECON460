@@ -1,11 +1,10 @@
 # Required Readings
 
-The complete reading list is available [here](ECON460-readings-2022-09-06.pdf).  All required readings are included 
-in the course reading packet, which is available from the ECON department office.
+The complete reading list is available [here](ECON460-readings-2024.pdf).   
 
 For each of the required readings listed below, you should 
 complete the reading response exercise in gradescope **before** the class meeting 
-where we will discuss each reading (reading-specific due dates are listed below).
+where we will discuss each reading (reading-specific due dates are listed below, assignments are due by 2:00 AM on the due date).
 
 ### 1. Gender Norms Among Non-Human Primates
 
@@ -13,13 +12,13 @@ Hrdy, Sarah Blaffer.  (1981)  [_The Woman that Never Evolved_](https://ebookcent
 
 [Reading Guide:  _The Woman that Never Evolved_](ECON460-Hrdy-reading-guide.pdf)
 
-[Reading Response:  _The Woman that Never Evolved_](https://www.gradescope.com/courses/439200/assignments/2233713/) (due Sunday 9/11)
+<!-- [Reading Questions:  _The Woman that Never Evolved_](https://www.gradescope.com/courses/439200/assignments/2233713/) (due Wednesday 9/11) -->
 
 ### 2. Lessons from Ancient DNA
 
 Reich, David.  (2018)  _Who We Are and How We Got Here:  Ancient DNA and the New Science of the Human Past_, Chapters 1 through 6 and Chapter 10.
 
-_This will be handed out on the first day of class._
+_Handed out on the first day of class._
 
 [Reading Guide:  _Who We Are and How We Got Here_](ECON460-Reich-reading-guide.pdf)
 

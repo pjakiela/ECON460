@@ -44,7 +44,7 @@ Talba, Lucienne. 2023. “Of Cattle and (Wo)men: Animal Domestication and Gender
 
 Dube, Oeindrila, and S. P. Harish. 2020. “[Queens](https://www.journals.uchicago.edu/doi/full/10.1086/707011?af=R&mobileUi=0).”  
 
-### 5. The World Wars and the Emergence of Modern Gender Norms  
+### 5. The World Wars   
 
 Lubcyzk, Moritz, and Petra Moser. 2024. “[The Ms. Allocation of Talent](https://www.dropbox.com/scl/fi/4bq6446anykxocejslci4/MsAllocation.pdf?rlkey=iaa0onl72uiee6t9ty0zza2nb&dl=0).”  
 
@@ -86,20 +86,16 @@ Londoño-Vélez, Juliana, and Estefanía Saravia. 2024. “The Impact of Denying
 
 Riley, Emma. (2024) “Role Models in Movies: The Impact of Queen of Katwe on Students’ Educational Attainment.”   
 
-### 13. Gender in the Workplace: Interruptions at the Supreme Court  
+### 13. Interruptions at the Supreme Court  
 
 Cai, Erica, Ankita Gupta, Katherine Keith, Brendan O’Conner, and Douglas Rice. 2024. “‘Let Me Just Interrupt You’: Estimating Gender Effects in Supreme Court Oral Arguments.”  
 
-### 14. Women in Economics I: Research Productivity and Tenure   
+### 14. Women in Economics I: Research Productivity    
 
 Sarsons, Heather, Klarita Gerxhani, Ernesto Reuben, and Arthur Schram. 2021. “Gender Differences in Recognition for Group Work.”  
 
-### 15. Women in Economics II: Toxicity in Professional Environments    
+### 15. Women in Economics II: Toxicity    
 
 Dupas, Pascaline, Alicia Modestino, Muriel Niederle, Justin Wolfers, and the Seminar Dynamics Collective. 2021. “Gender and the Dynamics of Economics Seminars.”   
 
-Wu, Alice.  (2020)  “Gender Bias in Rumors Among Professionals:  An Identity-Based Interpretation,” Review of Economics and Statistics, 102(5):  867-880.  
 
-[Reading Guide:  EJMR](ECON460-wu-guide-2022-11.15.pdf)  
-
-[Reading Response](https://www.gradescope.com/courses/439200/assignments/2441566/) (due Friday 11/18)

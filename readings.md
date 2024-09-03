@@ -4,57 +4,45 @@ The complete reading list is available [here](ECON460-readings-2024.pdf).
 
 For each of the required readings listed below, you should 
 complete the reading response exercise in gradescope **before** the class meeting 
-where we will discuss each reading (reading-specific due dates are listed below, assignments are due by 2:00 AM on the due date).
+where we will discuss each reading.  Reading-specific due dates are listed below.  Assignments are due by 2:00 AM on the due date.
 
 ### 1. Gender Norms Among Non-Human Primates
 
-Hrdy, Sarah Blaffer.  (1981)  [_The Woman that Never Evolved_](https://ebookcentral.proquest.com/lib/willm/detail.action?docID=3300544).  
+Hrdy, Sarah Blaffer. 1981.  [_The Woman that Never Evolved_](https://ebookcentral.proquest.com/lib/willm/detail.action?docID=3300544).  
 
-[Reading Guide:  _The Woman that Never Evolved_](ECON460-Hrdy-reading-guide.pdf)
+[Reading Guide: _The Woman that Never Evolved_](ECON460-Hrdy-reading-guide.pdf)
 
-<!-- [Reading Questions:  _The Woman that Never Evolved_](https://www.gradescope.com/courses/439200/assignments/2233713/) (due Wednesday 9/11) -->
+[Reading Questions: _The Woman that Never Evolved_](https://www.gradescope.com/courses/853960/assignments/4879294/) (due Wednesday 9/11)
 
 ### 2. Lessons from Ancient DNA
 
-Reich, David.  (2018)  _Who We Are and How We Got Here:  Ancient DNA and the New Science of the Human Past_, Chapters 1 through 6 and Chapter 10.
+Reich, David. 2018.  _Who We Are and How We Got Here:  Ancient DNA and the New Science of the Human Past_, Chapters 1 through 6 and Chapter 10.
 
 _Handed out on the first day of class._
 
-[Reading Guide:  _Who We Are and How We Got Here_](ECON460-Reich-reading-guide.pdf)
+[Reading Guide: _Who We Are and How We Got Here_](ECON460-Reich-reading-guide.pdf)
 
-[Reading Response:  _Who We Are and How We Got Here_](https://www.gradescope.com/courses/439200/assignments/2254927/) (due Sunday 9/19)
+<!-- [Reading Response: _Who We Are and How We Got Here_](https://www.gradescope.com/courses/439200/assignments/2254927/) (due Sunday 9/19) -->
 
-### 3. The Cow and The Plow, etc
+### 3. The Deep Roots of Modern Gender Norms  
 
-Boserup, Ester.  (1970)  Women’s Role in Economic Development, Chapter 1 (“Male and Female Farming Systems”). 
+Alesina, Alberto, Paola Giuliano, and Nathan Nunn.  2013.  “[On the Origins of Gender Roles:  Women and the Plough](https://academic.oup.com/qje/article/128/2/469/1943509).”  
 
-[Reading Guide:  Male and Female Farming Systems](ECON460-Boserup-reading-guide-2022-09-19.pdf)
+Antilla-Hughes, Jesse, Patrick Krause, and Yaniv Stopnitzky. 2021. “[The Roots of Modern Sex Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2871794).”  
 
-Alesina, Alberto, Paola Giuliano, and Nathan Nunn.  (2013)  “On the Origins of Gender Roles:  Women and the Plough,” _Quarterly Journal of Economics_, 128(2):  469-520.
+Becker, Anke. 2021. “[On the Economic Origins of Restricting Women’s Promiscuity](https://www.hbs.edu/ris/Publication%20Files/On%20the%20Economic%20Origions%20of%20Restricting%20Women's%20Promiscuity_9b11318e-d35f-41c3-8a28-727c4251e9ed.pdf).”  
 
-[Reading Guide:  Women and the Plough](ECON460-Plough-QJE-reading-guide-2022-09-19.pdf)
+Corno, Lucia, Eliana La Ferrrara, and Alessandra Voena. 2024. “[Female Genital Cutting and the Slave Trade](https://www.dropbox.com/scl/fi/ro45xcbdhw2my45ek0tca/FGC_origins_TablesJan2024.pdf?rlkey=65cg474lqeev2b3o20x8udgxi&dl=0).”  
 
-[Reading Response:  The Cow and the Plough Week](https://www.gradescope.com/courses/439200/assignments/2275112/) (due Sunday 9/25)
+Damann, Taylor J., Jeremy Siow, and Margit Tavits. 2023. “[Persistence of gender biases in Europe](https://www.pnas.org/doi/abs/10.1073/pnas.2213266120).”
 
-### 4. Women in Ancient Civilizations 
+Jakiela, Pamela, and Owen Ozier. 2022. “[Gendered Language](https://pjakiela.github.io/research/JakielaOzier-2022-01-26.pdf)."
 
-Trigger, Bruce.  2003. Understanding Early Civilizations, Chapter 2 (“Comparative Studies”, just skim this to get a sense of the overall scope of Trigger’s research project) and Chapter 9 (“Family Organization and Gender Roles”).  
+Talba, Lucienne. 2023. “Of Cattle and (Wo)men: Animal Domestication and Gender Disparities in Sub-Saharan Africa.”
 
-[Reading Guide:  _Understanding Early Civilizations_](ECON460-Trigger-reading-guide-2022-09-26.pdf)
+### 4. Women in Early Modern Europe  
 
-[Reading Response:  _Understanding Early Civilizations_](https://www.gradescope.com/courses/439200/assignments/2295453/) (due Sunday 10/2)
-
-### 5. Women in Early Modern Europe  
-
-de Moor, Tine, and Jan Luiten van Zanden.  (2010)  “Girl power:  The European marriage pattern and labor markets in the North Sea region in the late medieval and early modern period,” _Economic History Review_, 63(1):  1-33.
-
-[Reading Guide:  Girl Power](ECON460-EMP-reading-guide-2022-10-10.pdf)
-
-Oster, Emily.  (2004)  “Witchcraft, Weather, and Economic Growth in Renaissance Europe,” _Journal of Economic Perspectives_, 18(1):  215-228.
-
-[Reading Guide:  Witchcraft, Weather and Economic Growth](ECON460-witches-reading-guide-2022-10-10.pdf)  
-
-[Reading Response:  Women in Early Modern Europe](https://www.gradescope.com/courses/439200/assignments/2341367) (due Sunday 10/16)
+Dube, Oeindrila, and S. P. Harish. 2020. “Queens.”  
 
 ### 6. Missing Women and Investments in Girls 
 
@@ -66,11 +54,7 @@ Jayachandran, Seema, and Rohini Pande.  (2017)  “Why Are Indian Children So Sh
 
 [Reading Guide:  Why Are Indian Children So Short?](ECON460-Indian-children-guide-2022-10-18.pdf)  
 
-Qian, Nancy.  (2008)  “Missing Women and the Price of Tea in China:  The Effect of Sex-Specific Earnings on Sex Imbalance,” _Quarterly Journal of Economics_, 123(3):  1251-85.
 
-[Reading Guide:  Missing Women and the Price of Tea in China](ECON460-price-of-tea-in-china-guide-2022-10-18.pdf)  
-
-[Reading Response:  Missing Women and Investments in Girls](https://www.gradescope.com/courses/439200/assignments/2362686/) (due Saturday 10/22)
 
 ### 7. Girls’ Education and Women’s Employment Opportunities 
 

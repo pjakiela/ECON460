@@ -8,7 +8,7 @@
 | 9/11 | Gender Norms Among Non-Human Primates |
 | 9/16 | Methods Monday:  Research Designs in Empirical Microeconomics |
 | 9/18 | Lessons from Ancient DNA |
-| 9/23 | The Deep Roots of Modern Gender Norms |
+| 9/23 | Methods Monday:  Giving a Presentation |
 | 9/25 | **Deep Roots of Gender Norms Mini-Presentations** |
 | 9/30 | Methods Monday:  Difference-in-Differences |
 | 10/2 | Women in Early Modern Europe | 
@@ -28,7 +28,7 @@
 | 11/20 | Women in Economics II: Toxicity in Professional Environments  |
 | 11/25 | _Thanksgiving_ |
 | 11/27 | _Thanksgiving_ |
-| 12/2 | **Student Presentations** |
+| 12/2 | _Group Presentation Troubleshooting_ |
 | 12/4 | **Student Presentations** |
 | 12/6 | **Student Presentations** |
 

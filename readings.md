@@ -4,7 +4,7 @@ The complete reading list is available [here](ECON460-readings-2024.pdf).
 
 For each of the required readings listed below, you should 
 complete the reading response exercise in gradescope **before** the class meeting 
-where we will discuss each reading.  Reading-specific due dates are listed below.  Assignments are due by 2:00 AM on the due date.
+where we will discuss each reading.  Reading-specific due dates are listed below.  Responses are due by 2:00 AM on the due date.
 
 ### 1. Gender Norms Among Non-Human Primates
 
@@ -42,59 +42,61 @@ Talba, Lucienne. 2023. “Of Cattle and (Wo)men: Animal Domestication and Gender
 
 ### 4. Women in Early Modern Europe  
 
-Dube, Oeindrila, and S. P. Harish. 2020. “Queens.”  
+Dube, Oeindrila, and S. P. Harish. 2020. “[Queens](https://www.journals.uchicago.edu/doi/full/10.1086/707011?af=R&mobileUi=0).”  
+
+### 5. The World Wars and the Emergence of Modern Gender Norms  
+
+Lubcyzk, Moritz, and Petra Moser. 2024. “[The Ms. Allocation of Talent](https://www.dropbox.com/scl/fi/4bq6446anykxocejslci4/MsAllocation.pdf?rlkey=iaa0onl72uiee6t9ty0zza2nb&dl=0).”  
 
 ### 6. Missing Women and Investments in Girls 
 
 Sen, Amartya.  (1990)  “More than 100 Million Women Are Missing,” _The New York Review of Books_.  
 
-[Reading Guide:  Missing Women](ECON460-missing-women-guide-2022-10-18.pdf)  
+<!--[Reading Guide:  Missing Women](ECON460-missing-women-guide-2022-10-18.pdf) -->  
 
-Jayachandran, Seema, and Rohini Pande.  (2017)  “Why Are Indian Children So Short?  The Role of Birth Order and Son Preference,” _American Economic Review_, 107(9):  2600-2629.
+Jayachandran, Seema, and Rohini Pande.  (2017)  “Why Are Indian Children So Short?  The Role of Birth Order and Son Preference,” _American Economic Review_, 107(9):  2600-2629.  
 
-[Reading Guide:  Why Are Indian Children So Short?](ECON460-Indian-children-guide-2022-10-18.pdf)  
+<!--[Reading Guide:  Why Are Indian Children So Short?](ECON460-Indian-children-guide-2022-10-18.pdf) -->  
 
+### 7. Girls’ Education  
 
+Borker, Girija. (2021) “[Safety First: Perceived Risk of Street Harassment and Educational Choices of Women](https://documents1.worldbank.org/curated/en/723631626710146405/pdf/Safety-First-Perceived-Risk-of-Street-Harassment-and-Educational-Choices-of-Women.pdf).”  
 
-### 7. Girls’ Education and Women’s Employment Opportunities 
+### 8. Women’s Labor Force Participation in Patriarchal Societies 
 
-Evans, David K., Maryam Akmal, and Pamela Jakiela.  (2021)  “Gender Gaps in Education:  The Long View,” _IZA Journal of Development and Migration_, 12(1).  
+Jensen, Robert.  (2012)  “Do Labor market Opportunities Affect Young Women’s Work and Family Decisions?  Experimental Evidence from India,” _Quarterly Journal of Economics_, 127(2):  753-792.  
 
-[Reading Guide:  Gender Gaps in Education](ECON460-gender-gaps-education-guide-2022-10-24.pdf)  
+<!--[Reading Guide:  Do Labor market Opportunities Affect Young Women’s Work and Family Decisions](ECON460-BPO-guide-2022-10-25.pdf) -->  
 
-Jensen, Robert.  (2012)  “Do Labor market Opportunities Affect Young Women’s Work and Family Decisions?  Experimental Evidence from India,” _Quarterly Journal of Economics_, 127(2):  753-792.
+<!--[Reading Response:  Girls’ Education and Women’s Employment Opportunities](https://www.gradescope.com/courses/439200/assignments/2383180/) (due Friday 10/28) -->
 
-[Reading Guide:  Do Labor market Opportunities Affect Young Women’s Work and Family Decisions](ECON460-BPO-guide-2022-10-25.pdf)  
+### 9. Women in the Military   
 
-[Reading Response:  Girls’ Education and Women’s Employment Opportunities](https://www.gradescope.com/courses/439200/assignments/2383180/) (due Friday 10/28)
+Greenberg, Kyle, Melanie Wasserman, and Anna Weber. 2024, “The Effects of Gender Integration on Men: Evidence from the U.S. Military.”  
 
-### 8. Labor Force Implications of Reproductive Choices 
+### 10. The Child Penalty  
 
-Goldin, Claudia, and Lawrence F. Katz.  (2002)  “The Power of the Pill:  Oral Contraceptives and Women’s Career and Marriage Decisions,” _Journal of Political Economy_, 110(4):  730-770.
+Olivetti, Claudia, and Barbara Petrongolo. 2017. “The Economic Consequences of Family Policies: Lessons from a Century of Legislation in High-Income Countries.”  
 
-[Reading Guide:  The Power of the Pill](ECON460-the-pill-guide-2022-11-01.pdf)  
+### 11. Reproductive Rights  
 
-[Reading Response:  The Power of the Pill](https://www.gradescope.com/courses/439200/assignments/2402731/) (due Friday 11/4)  
+Londoño-Vélez, Juliana, and Estefanía Saravia. 2024. “The Impact of Denying a Woman a Wanted Abortion.”  
 
-### 9. The Behavioral Economics of Women’s Work 
+### 12. Psychological Constraints and Subconscious Bias 
 
-Niederle, Muriel, and Lise Vesterlund.  (2007)  “Do Women Shy Away from Competition?  Do Men Compete Too Much?” _Quarterly Journal of Economics_, 122(3):  1067-1101.  
+Riley, Emma. (2024) “Role Models in Movies: The Impact of Queen of Katwe on Students’ Educational Attainment.”   
 
-[Reading Guide:  Do Women Shy Away from Competition?](ECON460-niederle-vesterlund-guide-2022-11-08.pdf)  
+### 13. Gender in the Workplace: Interruptions at the Supreme Court  
 
-Coffman, Katherine Baldiga.  (2014)  “Evidence on Self-Stereotyping and the Contribution of Ideas,” _Quarterly Journal of Economics_, 129(4):  1625-1660.  
+Cai, Erica, Ankita Gupta, Katherine Keith, Brendan O’Conner, and Douglas Rice. 2024. “‘Let Me Just Interrupt You’: Estimating Gender Effects in Supreme Court Oral Arguments.”  
 
-[Reading Guide:  Self-Stereotyping and the Contribution of Ideas](ECON460-coffman-guide-2022-11-08.pdf)  
+### 14. Women in Economics I: Research Productivity and Tenure   
 
-Dhar, Diva, Tarun Jain, and Seema Jayachandran.  (2022)  “Reshaping Adolescents' Gender Attitudes: Evidence from a School-Based Experiment in India,” _American Economic Review_, 112(3): 899-927.  
+Sarsons, Heather, Klarita Gerxhani, Ernesto Reuben, and Arthur Schram. 2021. “Gender Differences in Recognition for Group Work.”  
 
-[Reading Guide:  Reshaping Adolescents' Gender Attitudes](ECON460-dhar-et-al-guide-2022-11-08.pdf)  
+### 15. Women in Economics II: Toxicity in Professional Environments    
 
-[Reading Response:  Behavioral Economics of Gender](https://www.gradescope.com/courses/439200/assignments/2422770/) (due Friday 11/11)
-
-### 10. Women in Economics 
-
-Wu, Alice.  (2018)  “Gendered Language on the Economics Job Market Rumors Forum,” AEA Papers and Proceedings, 108:  175-179.  
+Dupas, Pascaline, Alicia Modestino, Muriel Niederle, Justin Wolfers, and the Seminar Dynamics Collective. 2021. “Gender and the Dynamics of Economics Seminars.”   
 
 Wu, Alice.  (2020)  “Gender Bias in Rumors Among Professionals:  An Identity-Based Interpretation,” Review of Economics and Statistics, 102(5):  867-880.  
 

@@ -1,6 +1,6 @@
 # Data Analysis Assignment 1
 
-_Data Assignment 1 is due by 11:00 PM on Septmeber 23. You can submit your finished assignment here._
+_Data Assignment 1 is due by 11:00 PM on Septmeber 23. You can submit your finished assignment [here](https://www.gradescope.com/courses/853960/assignments/4904592/)._
 
 ## Overview
 

@@ -25,5 +25,5 @@
 | 11/18 | Reading: Gender Differences in Recognition for Group Work | 
 | 11/20 | Reading: Gender and the Dynamics of Economics Seminars | 
 | 11/25 | Research Proposal | 
-| 12/1 | Slides for Research Project Presentation | 
+| 12/3 | Slides for Research Project Presentation | 
 | 12/14 | Research Project |

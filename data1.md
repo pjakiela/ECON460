@@ -1,6 +1,6 @@
 # Data Analysis Assignment 1
 
-_Data Assignment 1 is due by 11:00 PM on Septmeber 23._
+_Data Assignment 1 is due by 11:00 PM on Septmeber 23. You can submit your finished assignment here._
 
 ## Overview
 
@@ -79,9 +79,11 @@ over the top of your scatter plot.  Which technique is appropriate will depend o
 Your last piece of analysis will be a linear regression of one of your variables on the other.  You should present your regression results 
 in a self-contained table.  It is acceptable to show a single regression, but you may want to consider a few different specifications.  
 
+Additional guidance on making a regression table is available [here](https://pjakiela.github.io/stata/regression-table.html).
+
 ## Presenting Your Results
 
-Your final product for this assignment should be a 3 to 5 page pdf containing your tables and figures and a short write-up of your analysis. You 
+Your final product for this assignment should be a 3 to 5 page pdf containing your tables and figures and a short write-up of your analysis.  Your write-up must be written in your own words, and must adhere to the guidance on the syllabus regarding the Honor Code. You 
 will also submit a Stata do file or an R script that generates your results.  You can produce your write-up using word, latex, or rmarkdown - as long as 
 the end result is a pdf including your tables and figures plus your discussion of your work.
 

@@ -4,7 +4,7 @@
 |  Date  |  Topic  |
 | ------------ | ------- |
 | 9/6 | Introductions |
-| 9/9 | Methods Monday:  Data Management |
+| 9/9 | Methods Monday:  [Data Management](ECON-460-MM1-handout.pdf) |
 | 9/11 | Gender Norms Among Non-Human Primates |
 | 9/16 | Methods Monday:  Research Designs |
 | 9/18 | Lessons from Ancient DNA |

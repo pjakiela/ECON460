@@ -24,17 +24,21 @@ _Handed out on the first day of class._
 
 [Reading Questions: _Who We Are and How We Got Here_](https://www.gradescope.com/courses/853960/assignments/4956387/) (due Wednesday 9/18)  
 
-### 3. The Deep Roots of Modern Gender Norms  
+### 3. The Historical Roots of Modern Gender Norms  
 
 Alesina, Alberto, Paola Giuliano, and Nathan Nunn.  2013.  “[On the Origins of Gender Roles:  Women and the Plough](https://academic.oup.com/qje/article/128/2/469/1943509).”  
 
-Antilla-Hughes, Jesse, Patrick Krause, and Yaniv Stopnitzky. 2021. “[The Roots of Modern Sex Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2871794).”  
-
 Becker, Anke. 2021. “[On the Economic Origins of Restricting Women’s Promiscuity](https://www.hbs.edu/ris/Publication%20Files/On%20the%20Economic%20Origions%20of%20Restricting%20Women's%20Promiscuity_9b11318e-d35f-41c3-8a28-727c4251e9ed.pdf).”  
 
-Corno, Lucia, Eliana La Ferrrara, and Alessandra Voena. 2024. “[Female Genital Cutting and the Slave Trade](https://www.dropbox.com/scl/fi/ro45xcbdhw2my45ek0tca/FGC_origins_TablesJan2024.pdf?rlkey=65cg474lqeev2b3o20x8udgxi&dl=0).”  
+Becker, Sascha O., and Ludger Woessman. 2008. “[Luther and the Girls: Religions Denomination and the Female Education Gap in Nineteenth-century Prussia](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9442.2008.00561.x).”  
+
+BenYishay, Ariel, Pauline Grosjean, and Joe Vecci. 2017. “[The fish is the friend of matriliny: Reef density and matrilineal inheritance](https://www.sciencedirect.com/science/article/pii/S0304387817300299).”  
+
+Corno, Lucia, Eliana La Ferrara, and Alessandra Voena. 2024. “[Female Genital Cutting and the Slave Trade](https://www.dropbox.com/scl/fi/ro45xcbdhw2my45ek0tca/FGC_origins_TablesJan2024.pdf?rlkey=65cg474lqeev2b3o20x8udgxi&dl=0).”  
 
 Damann, Taylor J., Jeremy Siow, and Margit Tavits. 2023. “[Persistence of gender biases in Europe](https://www.pnas.org/doi/abs/10.1073/pnas.2213266120).”
+
+Grosjean, Pauline, and Rose Khattar. 2019. “[It’s Raining Men! Hallelujah? The Long-Run Consequences of Male-Biased Sex Ratios](https://academic.oup.com/restud/article/86/2/723/5004429).”  
 
 Jakiela, Pamela, and Owen Ozier. 2022. “[Gendered Language](https://pjakiela.github.io/research/JakielaOzier-2022-01-26.pdf)."
 

@@ -10,19 +10,19 @@ where we will discuss each reading.  Reading-specific due dates are listed below
 
 Hrdy, Sarah Blaffer. 1981.  [_The Woman that Never Evolved_](https://ebookcentral.proquest.com/lib/willm/detail.action?docID=3300544).  
 
-[Reading Guide: _The Woman that Never Evolved_](ECON460-Hrdy-reading-guide.pdf)
+[Reading Guide: _The Woman that Never Evolved_](ECON460-Hrdy-reading-guide.pdf)  
 
-[Reading Questions: _The Woman that Never Evolved_](https://www.gradescope.com/courses/853960/assignments/4879294/) (due Wednesday 9/11)
+[Reading Questions: _The Woman that Never Evolved_](https://www.gradescope.com/courses/853960/assignments/4879294/) (due Wednesday 9/11)  
 
 ### 2. Lessons from Ancient DNA
 
-Reich, David. 2018.  _Who We Are and How We Got Here:  Ancient DNA and the New Science of the Human Past_, Chapters 1 through 6 and Chapter 10.
+Reich, David. 2018.  _Who We Are and How We Got Here:  Ancient DNA and the New Science of the Human Past_, Chapters 1 through 6 and Chapter 10.  
 
-_Handed out on the first day of class._
+_Handed out on the first day of class._  
 
-[Reading Guide: _Who We Are and How We Got Here_](ECON460-Reich-reading-guide.pdf)
+[Reading Guide: _Who We Are and How We Got Here_](ECON460-Reich-reading-guide.pdf)  
 
-<!-- [Reading Response: _Who We Are and How We Got Here_](https://www.gradescope.com/courses/439200/assignments/2254927/) (due Sunday 9/19) -->
+[Reading Questions: _Who We Are and How We Got Here_](https://www.gradescope.com/courses/853960/assignments/4956387/) (due Wednesday 9/18)  
 
 ### 3. The Deep Roots of Modern Gender Norms  
 

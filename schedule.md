@@ -6,7 +6,7 @@
 | 9/6 | Introductions |
 | 9/9 | Methods Monday:  [Data Management](ECON-460-MM1-handout.pdf) |
 | 9/11 | Gender Norms Among Non-Human Primates |
-| 9/16 | Methods Monday:  Research Designs |
+| 9/16 | Methods Monday:  [Research Designs](ECON460-MM2-2024-09-15.pdf) |
 | 9/18 | Lessons from Ancient DNA |
 | 9/23 | Methods Monday:  Giving a Presentation |
 | 9/25 | **Deep Roots of Gender Norms Mini-Presentations** |

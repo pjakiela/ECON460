@@ -4,9 +4,9 @@
 | ------- | -------------- |
 | 9/11 | Reading: [_The Woman that Never Evolved_](https://www.gradescope.com/courses/853960/assignments/4879294/) |
 | 9/16 | [Data Analysis Assignment 1](data1.html) |
-| 9/18 | Reading: _Who We Are and How We Got Here_ |
-| 9/23 | Data Analysis Assignment 2 |
+| 9/18 | Reading: [_Who We Are and How We Got Here_](https://www.gradescope.com/courses/853960/assignments/4956387/) |
 | 9/25 | Deep Roots of Gender Norms Presentations/Slides |
+| 9/29 | Data Analysis Assignment 2 |
 | 9/30 | Project Groups and Topics Statement |
 | 10/2 | Reading: Queens |
 | 10/7 | Data Analysis Assignment 3 |

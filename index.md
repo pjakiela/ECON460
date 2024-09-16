@@ -28,7 +28,7 @@ Now and throughout history, views of the appropriate role for women in society h
 
 [Mini-Presentation](https://pjakiela.github.io/ECON460/mini-presentation.html)  
 
-<!-- [Data Assignment 2](https://pjakiela.github.io/ECON460/data2.html) --> 
+[Data Assignment 2](https://pjakiela.github.io/ECON460/data2.html)   
 
 <!-- [Data Assignment 3](https://pjakiela.github.io/ECON460/data3.html) --> 
 

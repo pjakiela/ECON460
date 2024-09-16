@@ -1,22 +1,28 @@
 # Data Analysis Assignment 2
 
-_Data Assignment 2 is due by 11:00 PM on October 9._
+_Data Assignment 2 is due by 11:00 PM on 29._
 
 ## Overview
 
-For this assignment, we will be replicating and extending the analysis presented 
-in Alberto Alesina, Paola Giuliano, and Nathan Nunn's paper 
-[On the Origins of Gender Roles:  Women and the Plough](https://academic.oup.com/qje/article/128/2/469/1943509).  To do this, 
-we will combine the cross-country data from the authors' replication files with 
-the World Bank's [Women, Business, and the Law](https://wbl.worldbank.org/en/wbl) database.  This will allow us 
-to explore the association between traditional use of the plow in agriculture and 
-legal protection of women's rights.  
+For this assignment, you will be exploring the role of ancestral characteristics in explaining women's legal equality in the present.  To do this, 
+you will combine data from the Ethnographic Atlas with the World Bank's 
+[Women, Business, and the Law](https://wbl.worldbank.org/en/wbl) database.  The [Ethnographic Atlas](https://d-place.org/contributions/EA) 
+characterizes the characteristics of 1,291 pre-industrial societies; it was compiled by the antrhopologist George Murdock, who attempted 
+to systematize the enormous amount of information recorded by ethnographers doing field work in traditional communities.  [Paola Giuliano](https://www.anderson.ucla.edu/faculty-and-research/global-economics-and-management/faculty/giuliano) and 
+[Nathan Nunn](https://nathannunn.arts.ubc.ca/) have used the Ethnographic Atlas to construct a data set mapping current populations to 
+the attributes of the pre-industrial societies of their ancestors.  
 
-## Getting Your Data
+## Getting and Cleaning Your Data
 
-Replication files for Alesina, Giuliano, and Nunn's paper on the plow are available from 
-[Professor Nunn's website](https://nathannunn.arts.ubc.ca/data/).  You'll be using the 
-cross-country data file, and you should also extract their do file from the zipped folder.  
+We will be using [this data set](ECON460-Giuliano-Nunn-data.dta), which is a subset of the country-level data included in 
+Professor Giuliano and Professor Nunn's ancestral characteristics data.  We are only going to be working with 12 of the variables from 
+the Ethnographic Atlas:  those measuring monogamy, matrilocality and patrilocality, major crops, dieties, plows use, domestic animals, dairy production, 
+sex segregation in the manufacture of cloth, sex segregation in the production of pottery, sex segregation in agriculture, inheritance systems, and 
+norms surrounding premarital sex.  Information on these 12 Ethnologue variables and their coding is available here.  The do file 
+[ECON460-data2-template.do] includes code that cleans three of these variables (on monogamy, matrilocality and patrilocality, and use of the plow), 
+aggregating variables from the Giuliano and Nunn data set into a smaller set of variables to be used in the analysis.  In addition to these three 
+attributes of ancestral populations, you should pick two additional variables from the Giuliano and Nunn data that you will clean and include in 
+your analysis.
 
 The second data set is the World Bank's [Women, Business, and the Law (WBL) database](https://wbl.worldbank.org/en/wbl-data), 
 which contains information on legal protections for women in 190 countries.  You can download the data in Stata format, 

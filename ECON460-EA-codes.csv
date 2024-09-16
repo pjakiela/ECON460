@@ -1,0 +1,86 @@
+var_id,code,description,name
+v9,NA,Missing data,Missing data
+v9,1,Monogamous,Monogamous
+v9,2,"Polygynous, with polygyny occasional or limited",Limited polygyny
+v9,3,"Polygynous, with polygyny common and preferentially sororal, and co-wives not reported to occupy separate quarters","Polygyny, sororal cohabit"
+v9,4,"Polygynous, with polygyny common and preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, sororal separate quarters"
+v9,5,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, non-sororal separate quarters"
+v9,6,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives not reported to occupy separate quarters","Polygyny, non-sororal cohabit"
+v9,7,Polyandrous,Polyandrous
+v11,NA,Missing data,Missing data
+v11,1,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)",Wife to husband
+v11,2,Couple to either group or neolocal,Ambi/neo-local
+v11,3,Husband to wife's group,Husband to wife
+v11,9,"Nonestablishment of a common household, i.e., where both spouses remain in their natal households, sometimes called ""duolocal"" or ""natolocal"" residence",Separate
+v29,NA,Missing data,Missing data
+v29,1,No agriculture,No agriculture
+v29,2,"Non-food crops only, e.g., cotton or tobacco",Non-food
+v29,3,"Vegetables, e.g., cucurbits, greens, or legumes, when more important than other crops",Vegetables
+v29,4,"Tree fruits, e.g., bananas, breadfruit, coconuts, or dates, when more important than cereal grains and root crops. Sago, unless specifically reported to be cultivated, is treated as a gathered product rather than a cultivated one",Tree-fruits
+v29,5,"Roots or tubers, e.g., manioc, potatoes, taro, or yams, when more important than cereal grains and at least as important as tree crops or vegetables",Roots/tubers
+v29,6,"Cereal grains, e.g., maize, millet, rice, or wheat, when at least as important as any other type of crop",Cereals
+v34,NA,Missing data,Missing data
+v34,1,A high god absent or not reported in substantial descriptions of religious beliefs,Absent
+v34,2,A high god present but otiose or not concerned with human affairs,Otiose
+v34,3,A high god present and active in human affairs but not offering positive support to human morality,"Active, but not supporting morality"
+v34,4,"A high god present, active, and specifically supportive of human morality","Active, supporting morality"
+v39,NA,Missing data,Missing data
+v39,1,Absent (no plow animals),Absent
+v39,2,Plow cultivation not aboriginal but well established at the period of observation,Not aboriginal but present
+v39,3,Animals employed in plow cultivation prior to the contact period,Present
+v4,NA,Missing data,Missing data
+v4,1,"Absence or near absence of domestic animals other than bees, eats, dogs, fowl, guinea pigs, or the like",Absence or near absence
+v4,2,Pigs the only domestic animals of consequence,Pigs
+v4,3,Sheep and/or goats when larger domestic animals are absent or much less important,Sheep/goats
+v4,4,"Equine animals, e.g., horses, donkeys",Equine
+v4,5,"Deer, e.g., reindeer",Deer
+v4,6,"Camels or other animals of related genera, e.g., alpacas, llamas",Camelids
+v4,7,"Bovine animals, e.g., cattle, mithun, water buffaloes, yaks",Bovine
+v41,NA,Missing data,Missing data
+v41,1,Absence or near absence of milking,Absence or near absence
+v41,2,Domestic animals milked more often than sporadically,More than sporadically
+v45,NA,Missing data,Missing data
+v45,1,"Males alone perform the activity, female participation being negligible",Males alone
+v45,2,"Both sexes participate, but males do appreciably more than females","Both, males more"
+v45,3,Differentiation of specific tasks by sex but approximately equal participation by both sexes in the total activity,Differentiated but equal
+v45,4,Equal participation by both sexes without marked or reported differentiation in specific tasks,Equal participation
+v45,5,"Both sexes participate, but females do appreciably more than males","Both, females more"
+v45,6,"Females alone perform the activity, male participation being negligible",Females alone
+v45,7,"Sex participation irrelevant, especially where production is industrialized",Sex irrelevant
+v45,8,"The activity is present, but sex participation is unspecified in the sources consulted","Activity present, sex diff. unspecified"
+v45,9,The activity is absent or unimportant in the particular society,Activity is absent
+v47,NA,Missing data,Missing data
+v47,1,"Males alone perform the activity, female participation being negligible",Males alone
+v47,2,"Both sexes participate, but males do appreciably more than females","Both, males more"
+v47,3,Differentiation of specific tasks by sex but approximately equal participation by both sexes in the total activity,Differentiated but equal
+v47,4,Equal participation by both sexes without marked or reported differentiation in specific tasks,Equal participation
+v47,5,"Both sexes participate, but females do appreciably more than males","Both, females more"
+v47,6,"Females alone perform the activity, male participation being negligible",Females alone
+v47,7,"Sex participation irrelevant, especially where production is industrialized",Sex irrelevant
+v47,8,"The activity is present, but sex participation is unspecified in the sources consulted","Activity present, sex diff. unspecified"
+v47,9,The activity is absent or unimportant in the particular society,Activity is absent
+v54,NA,Missing data,Missing data
+v54,1,"Males alone perform the activity, female participation being negligible",Males alone
+v54,2,"Both sexes participate, but males do appreciably more than females","Both, males more"
+v54,3,Differentiation of specific tasks by sex but approximately equal participation by both sexes in the total activity,Differentiated but equal
+v54,4,Equal participation by both sexes without marked or reported differentiation in specific tasks,Equal participation
+v54,5,"Both sexes participate, but females do appreciably more than males","Both, females more"
+v54,6,"Females alone perform the activity, male participation being negligible",Females alone
+v54,7,"Sex participation irrelevant, especially where production is industrialized",Sex irrelevant
+v54,8,"The activity is present, but sex participation is unspecified in the sources consulted","Activity present, sex diff. unspecified"
+v54,9,The activity is absent or unimportant in the particular society,Activity is absent
+v74,NA,Missing data,Missing data
+v74,1,Absence of individual property rights in land or of any rule of inheritance governing the transmission of such rights,No inher. of real property
+v74,2,Matrilineal inheritance by a sister's son or sons,Matrilineal by sister's sons
+v74,3,Inheritance by matrilineal heirs who take precedence over sisters' sons,Matrilineal by heirs
+v74,4,"Inheritance by children, but with daughters receiving less than sons","Children, less for daughters"
+v74,5,Inheritance by children of either sex or both,Children
+v74,6,Inheritance by patrilineal heirs who take precedence over sons,Patrilineal by heirs
+v74,7,Patrilineal inheritance by a son or sons,Patrilineal by sons
+v78,NA,Missing data,Missing data
+v78,1,Premarital sex relations precluded by a very early age of marriage for females,Precluded by early marriage
+v78,2,"Insistence on virginity; premarital sex relations prohibited, strongly sanctioned, and in fact rare","Prohibited, strongly sanctioned"
+v78,3,Premarital sex relations prohibited but weakly sanctioned and not infrequent in fact,Prohibited but weakly sanctioned
+v78,4,Premarital sex relations allowed and not sanctioned unless pregnancy results,"Permitted, sanction if pregnancy"
+v78,5,"Trial marriage; monogamous premarital sex relations permitted with the expectation of marriage if pregnancy results, promiscuous relations being prohibited and sanctioned",Trial marriage
+v78,6,Premarital sex relations freely permitted and subject to no sanctions,"Permitted, no sanctions"

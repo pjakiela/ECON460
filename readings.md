@@ -48,6 +48,8 @@ Talba, Lucienne. 2023. “Of Cattle and (Wo)men: Animal Domestication and Gender
 
 Dube, Oeindrila, and S. P. Harish. 2020. “[Queens](https://www.journals.uchicago.edu/doi/full/10.1086/707011?af=R&mobileUi=0).”  
 
+[Reading Guide: _Queens_](ECON460-Queens-guide-2024-09-20.pdf)   
+
 ### 5. The World Wars   
 
 Lubcyzk, Moritz, and Petra Moser. 2024. “[The Ms. Allocation of Talent](https://www.dropbox.com/scl/fi/4bq6446anykxocejslci4/MsAllocation.pdf?rlkey=iaa0onl72uiee6t9ty0zza2nb&dl=0).”  

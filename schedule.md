@@ -8,7 +8,7 @@
 | 9/11 | Gender Norms Among Non-Human Primates |
 | 9/16 | Methods Monday:  [Research Designs](ECON460-MM2-2024-09-15.pdf) |
 | 9/18 | Lessons from Ancient DNA |
-| 9/23 | Methods Monday:  Giving a Presentation |
+| 9/23 | Methods Monday:  [Giving a Presentation](ECON460-MM3.pdf) |
 | 9/25 | **Deep Roots of Gender Norms Mini-Presentations** |
 | 9/30 | Methods Monday:  Difference-in-Differences |
 | 10/2 | Women in Early Modern Europe | 

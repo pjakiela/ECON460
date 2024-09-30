@@ -7,8 +7,8 @@
 | 9/18 | Reading: [_Who We Are and How We Got Here_](https://www.gradescope.com/courses/853960/assignments/4956387/) |
 | 9/25 | [Deep Roots of Gender Norms Presentations/Slides](https://www.gradescope.com/courses/853960/assignments/5029422/) |
 | 9/29 | [Data Analysis Assignment 2](data2.html) |
-| 9/30 | Project Groups and Topics Statement |
-| 10/2 | Reading: Queens |
+| 9/30 | [Project Groups and Topics Statement](https://www.gradescope.com/courses/853960/assignments/5065751/) |
+| 10/2 | [Reading: Queens](https://www.gradescope.com/courses/853960/assignments/5022278/) |
 | 10/7 | Data Analysis Assignment 3 |
 | 10/9 | Reading: The Ms. Allocation of Talent |
 | 10/16 | Reading: More than 100 Million Women Are Missing |

@@ -1,27 +1,28 @@
 # Data Analysis Assignment 3
 
-_Data Assignment 3 is due ???_
+_Data Assignment 3 is due October 18._
 
 ## Overview
 
-For this assignment, we will be using Rounds 5, 6, and 7 of the [Afrobarometer](https://www.afrobarometer.org/) Surveys.  The Afrobarometer 
-data contains information on political attitudes, values, and beliefs from representative population samples in 36 African countries.  We will 
+For this assignment, we will be using Rounds 5, 6, 7, and 8 of the [Afrobarometer](https://www.afrobarometer.org/) Surveys.  The Afrobarometer 
+contains information on political attitudes, values, and beliefs from representative population samples in 34 African countries.  We will 
 combine the Afrobarometer data on information about female heads-of-state in Africa to estimate the impact of female leaders on gender 
-attitudes in a two-way fixed effects framework.
+attitudes and other outcomes in a two-way fixed effects framework.
 
 ## Getting Your Data
 
-You [can download the Afrobarometer from here](https://www.afrobarometer.org/data/merged-data/).  There is a single merged file 
+You can download the Afrobarometer from [here](https://www.afrobarometer.org/data/merged-data/).  There is a single merged file 
 for each round (containing data from all the countries included in that round).  You need to download the data from Rounds 5, 6, 
-and 7.  The data is in SPSS format, but you can convert it to Stata format using the `import spss` command.  It makes sense to save 
-a separate Stata data set for each round because the same variable name is sometimes used for a different variable in different rounds.  
+7, and 8.  The data is in SPSS format, but you can convert it to Stata format using Stata's `import spss` command.  Converting the data 
+from SPSS to .dta format is time-consuming, so I recommend only doing this once.  It makes sense to save a separate Stata data set 
+for each round because the same variable names are sometimes used for different variables in different rounds.  
 
-Data on female heads-of-state in Africa is available [here](female-heads-of-state.xlsx).  The data is in Excel format.  
+Data on female heads of state in Africa is available [here](female-heads-of-state-africa-2024.xlsx).  The data is in Excel format.  
 
 ## Cleaning Your Data
 
-Start by creating a cleaning do file.  Record each step involved in cleaning your data in the do file, 
-so that you can replicate them easily.  
+Start by creating a cleaning do file.  You may want to create a separate file that converts the raw SPSS files into .dta format. Record 
+each step involved in cleaning your data in the do file(s), so that you can replicate the entire process easily.  
 
 The first step is to keep only the variables you need from each round of the Afrobarometer data.  The following variables 
 are common to all the Afrobarometer data sets:
@@ -33,7 +34,11 @@ are common to all the Afrobarometer data sets:
 - `Q97` is the respondent's level of education
 - `Q101` is the respondent's gender
 
-You also need to keep data on our key outcomes of interest.  In each round, respondents 
+Labels sometimes change across survey rounds, so I recommend using Stata's `decode` command 
+to convert labeled numeric variables into string variables containing the text of the labels. You can then 
+generate the numeric variables needed for analysis after combinging all of the data sets.
+
+You also need to keep data on key outcomes of interest.  In Rounds 5, 6, and 7, respondents 
 were asked whether they agreed more with the statement 
 
 > Men make better political leaders than women, and should be elected rather than women.  
@@ -43,7 +48,20 @@ or the statement
 > Women should have the same chance of being elected to political office as men.  
 
 Responses to this question appear as variable `Q22` in Round 5, as `Q18` in Round 6, 
-and as `Q16` in Round 7.
+and as `Q16` in Round 7.  You will use this variable to estimate the impact of female 
+heads of state on gender attitudes (i.e. support for female political leaders).  
+
+The surveys also contain information about trust in the head of state (r5_Q59A in Round 5, r6_Q52A in Round 6, 
+r7_Q43A in Round 7, and r8_Q41A in Round 8).  From these, you can construct a measure of trust in the 
+head of state.
+
+In addition to your analysis of political attitudes (i.e. support for female political leaders and trust in 
+the head of state), you need to choose one additional outcome (or set of outcomes) to analyze.  Some suggestions include:
+
+- The presence of security forces as measured by the variables `EA_SEC_A` (police), `EA_SEC_B` (army), and `EA_SEC_C` (roadblocks).  These variables can be analyzed individually or converted into an index.
+- The provision of health and education facilities, as measured by the variables `EA_FAC_B` (schools) and `EA_FAC_D` (health clinics).  These variables can be used to test the hypothesis (discussed [here](https://www.bbc.com/news/articles/ce3z263453lo)) that female politicians prioritize the provision of social services.
+- Beliefs about the economic situation in the country and the prospects for the future (use `lookfor economic` to see a list of these variables).
+- Other Afrobarometer outcomes of your choice.
 
 To build your combined data set, keep only the variables you need from each round and then use Stata's `append` 
 command to put them together.  Then familiarize yourself with the variables in your combined data set.  Generate 

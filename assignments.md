@@ -9,7 +9,7 @@
 | 9/29 | [Data Analysis Assignment 2](data2.html) |
 | 9/30 | [Project Groups and Topics Statement](https://www.gradescope.com/courses/853960/assignments/5065751/) |
 | 10/2 | Reading: [Queens](https://www.gradescope.com/courses/853960/assignments/5022278/) |
-| 10/9 | Reading: The Ms. Allocation of Talent |
+| 10/9 | Reading: [The Ms. Allocation of Talent](https://www.gradescope.com/courses/853960/assignments/5096610) |
 | 10/15 | Reading: More than 100 Million Women Are Missing |
 |       | Reading: Why Are Indian Children So Short? |
 | 10/20 | [Data Analysis Assignment 3](data3.html) |

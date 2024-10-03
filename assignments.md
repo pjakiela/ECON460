@@ -9,10 +9,10 @@
 | 9/29 | [Data Analysis Assignment 2](data2.html) |
 | 9/30 | [Project Groups and Topics Statement](https://www.gradescope.com/courses/853960/assignments/5065751/) |
 | 10/2 | Reading: [Queens](https://www.gradescope.com/courses/853960/assignments/5022278/) |
-| 10/7 | Data Analysis Assignment 3 |
 | 10/9 | Reading: The Ms. Allocation of Talent |
-| 10/16 | Reading: More than 100 Million Women Are Missing |
+| 10/15 | Reading: More than 100 Million Women Are Missing |
 |       | Reading: Why Are Indian Children So Short? |
+| 10/20 | [Data Analysis Assignment 3](data3.html) |
 | 10/21 | Reading: Safety First: Perceived Risk of Street Harassment and Educational Choices of Women |
 | 10/23 | Reading: Do Labor market Opportunities Affect Young Women’s Work and Family Decisions? Experimental Evidence from India |
 | 10/28 | Reading: The Effects of Gender Integration on Men: Evidence from the U.S. Military | 

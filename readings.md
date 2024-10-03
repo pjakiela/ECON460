@@ -54,7 +54,7 @@ Dube, Oeindrila, and S. P. Harish. 2020. “[Queens](https://www.journals.uchica
 
 Lubcyzk, Moritz, and Petra Moser. 2024. “[The Ms. Allocation of Talent](https://www.dropbox.com/scl/fi/4bq6446anykxocejslci4/MsAllocation.pdf?rlkey=iaa0onl72uiee6t9ty0zza2nb&dl=0).”  
 
-[Reading Guide: _Queens_](ECON460-Ms-Allocation-guide-2024-10-03.pdf)  
+[Reading Guide: _The Ms. Allocation of Talent_](ECON460-Ms-Allocation-guide-2024-10-03.pdf)  
 
 ### 6. Missing Women and Investments in Girls 
 

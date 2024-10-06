@@ -10,9 +10,9 @@
 | 9/18 | Lessons from Ancient DNA |
 | 9/23 | Methods Monday:  [Giving a Presentation](ECON460-MM3.pdf) |
 | 9/25 | **Deep Roots of Gender Norms Mini-Presentations** |
-| 9/30 | Methods Monday:  Difference-in-Differences |
+| 9/30 | Methods Monday:  [Difference-in-Differences](ECON460-MM4-handout.pdf) |
 | 10/2 | Women in Early Modern Europe | 
-| 10/7 | Methods Monday:  Literature Reviews and Citations |
+| 10/7 | Methods Monday:  [Literature Reviews and Citations](ECON460-MM5-handout.pdf) |
 | 10/9 | The World Wars and the Emergence of Modern Gender Norms  |
 | 10/14 | _Reading Period_ |
 | 10/16 | Missing Women and Investments in Girls |

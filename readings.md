@@ -60,11 +60,11 @@ Lubcyzk, Moritz, and Petra Moser. 2024. “[The Ms. Allocation of Talent](https:
 
 Sen, Amartya.  (1990)  “More than 100 Million Women Are Missing,” _The New York Review of Books_.  
 
-<!--[Reading Guide:  Missing Women](ECON460-missing-women-guide-2022-10-18.pdf) -->  
+[Reading Guide:  Missing Women](ECON460-missing-women-guide.pdf)   
 
-Jayachandran, Seema, and Rohini Pande.  (2017)  “Why Are Indian Children So Short?  The Role of Birth Order and Son Preference,” _American Economic Review_, 107(9):  2600-2629.  
+Jayachandran, Seema, and Rohini Pande.  (2017)  [“Why Are Indian Children So Short?  The Role of Birth Order and Son Preference”](https://www.aeaweb.org/articles?id=10.1257/aer.20151282)    
 
-<!--[Reading Guide:  Why Are Indian Children So Short?](ECON460-Indian-children-guide-2022-10-18.pdf) -->  
+[Reading Guide:  Why Are Indian Children So Short?](ECON460-Indian-children-guide-2024.pdf)   
 
 ### 7. Girls’ Education  
 

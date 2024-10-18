@@ -70,6 +70,8 @@ Jayachandran, Seema, and Rohini Pande.  (2017)  [“Why Are Indian Children So S
 
 Borker, Girija. (2021) “[Safety First: Perceived Risk of Street Harassment and Educational Choices of Women](https://documents1.worldbank.org/curated/en/723631626710146405/pdf/Safety-First-Perceived-Risk-of-Street-Harassment-and-Educational-Choices-of-Women.pdf).”  
 
+[Reading Guide:  Safety First](ECON460-safety-first-2024-10-18.pdf) 
+
 ### 8. Women’s Labor Force Participation in Patriarchal Societies 
 
 Jensen, Robert.  (2012)  “Do Labor market Opportunities Affect Young Women’s Work and Family Decisions?  Experimental Evidence from India,” _Quarterly Journal of Economics_, 127(2):  753-792.  

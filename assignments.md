@@ -13,15 +13,15 @@
 | 10/15 | Reading: [More than 100 Million Women Are Missing](https://www.gradescope.com/courses/853960/assignments/5132028/) |
 |       | Reading: [Why Are Indian Children So Short?](https://www.gradescope.com/courses/853960/assignments/5132028/) |
 | 10/20 | [Data Analysis Assignment 3](data3.html) |
-| 10/21 | Reading: Safety First: Perceived Risk of Street Harassment and Educational Choices of Women |
-| 10/23 | Reading: Do Labor market Opportunities Affect Young Women’s Work and Family Decisions? Experimental Evidence from India |
+| 10/21 | Reading: [Safety First: Perceived Risk of Street Harassment and Educational Choices of Women](https://www.gradescope.com/courses/853960/assignments/5187530/) |
+| 10/23 | Reading: [Do Labor market Opportunities Affect Young Women’s Work and Family Decisions? Experimental Evidence from India](https://www.gradescope.com/courses/853960/assignments/5190696/) |
 | 10/28 | Reading: The Effects of Gender Integration on Men: Evidence from the U.S. Military | 
 | 10/30 | Reading: The Economic Consequences of Family Policies: Lessons from a Century of Legislation in High-Income Countries |
 | 11/4 | Reading: The Impact of Denying a Woman a Wanted Abortion |
 | 11/8 | Annotated Bibliography | 
 | 11/11 | Reading: Role Models in Movies: The Impact of Queen of Katwe on Students’ Educational Attainment |
 | 11/13 | Reading: ‘Let Me Just Interrupt You’: Estimating Gender Effects in Supreme Court Oral Arguments | 
-| 11/25 | Draft Research Proposal | 
+| 11/15 | Draft Research Proposal | 
 | 11/18 | Reading: Gender Differences in Recognition for Group Work | 
 | 11/20 | Reading: Gender and the Dynamics of Economics Seminars | 
 | 11/25 | Research Proposal | 

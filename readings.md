@@ -74,11 +74,9 @@ Borker, Girija. (2021) “[Safety First: Perceived Risk of Street Harassment and
 
 ### 8. Women’s Labor Force Participation in Patriarchal Societies 
 
-Jensen, Robert.  (2012)  “Do Labor market Opportunities Affect Young Women’s Work and Family Decisions?  Experimental Evidence from India,” _Quarterly Journal of Economics_, 127(2):  753-792.  
+Jensen, Robert.  (2012)  “[Do Labor market Opportunities Affect Young Women’s Work and Family Decisions?  Experimental Evidence from India](https://academic.oup.com/qje/article/127/2/753/1823744).”    
 
-<!--[Reading Guide:  Do Labor market Opportunities Affect Young Women’s Work and Family Decisions](ECON460-BPO-guide-2022-10-25.pdf) -->  
-
-<!--[Reading Response:  Girls’ Education and Women’s Employment Opportunities](https://www.gradescope.com/courses/439200/assignments/2383180/) (due Friday 10/28) -->
+[Reading Guide:  Do Labor market Opportunities Affect Young Women’s Work and Family Decisions](ECON460-BPO-guide-2024-10-20.pdf)     
 
 ### 9. Women in the Military   
 
@@ -86,7 +84,7 @@ Greenberg, Kyle, Melanie Wasserman, and Anna Weber. 2024, “The Effects of Gend
 
 ### 10. The Child Penalty  
 
-Olivetti, Claudia, and Barbara Petrongolo. 2017. “The Economic Consequences of Family Policies: Lessons from a Century of Legislation in High-Income Countries.”  
+Olivetti, Claudia, and Barbara Petrongolo. 2017. “[The Economic Consequences of Family Policies: Lessons from a Century of Legislation in High-Income Countries](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.205).”  
 
 ### 11. Reproductive Rights  
 
@@ -94,18 +92,18 @@ Londoño-Vélez, Juliana, and Estefanía Saravia. 2024. “The Impact of Denying
 
 ### 12. Psychological Constraints and Subconscious Bias 
 
-Riley, Emma. (2024) “Role Models in Movies: The Impact of Queen of Katwe on Students’ Educational Attainment.”   
+Riley, Emma. (2024) “[Role Models in Movies: The Impact of Queen of Katwe on Students’ Educational Attainment](https://direct.mit.edu/rest/article/106/2/334/109267/Role-Models-in-Movies-The-Impact-of-Queen-of-Katwe).”   
 
 ### 13. Interruptions at the Supreme Court  
 
-Cai, Erica, Ankita Gupta, Katherine Keith, Brendan O’Conner, and Douglas Rice. 2024. “‘Let Me Just Interrupt You’: Estimating Gender Effects in Supreme Court Oral Arguments.”  
+Cai, Erica, Ankita Gupta, Katherine Keith, Brendan O’Conner, and Douglas Rice. 2024. “[‘Let Me Just Interrupt You’: Estimating Gender Effects in Supreme Court Oral Arguments](https://osf.io/preprints/socarxiv/4dngy).”  
 
 ### 14. Women in Economics I: Research Productivity    
 
-Sarsons, Heather, Klarita Gerxhani, Ernesto Reuben, and Arthur Schram. 2021. “Gender Differences in Recognition for Group Work.”  
+Sarsons, Heather, Klarita Gerxhani, Ernesto Reuben, and Arthur Schram. 2021. “[Gender Differences in Recognition for Group Work](https://www.journals.uchicago.edu/doi/full/10.1086/711401).”  
 
 ### 15. Women in Economics II: Toxicity    
 
-Dupas, Pascaline, Alicia Modestino, Muriel Niederle, Justin Wolfers, and the Seminar Dynamics Collective. 2021. “Gender and the Dynamics of Economics Seminars.”   
+Dupas, Pascaline, Alicia Modestino, Muriel Niederle, Justin Wolfers, and the Seminar Dynamics Collective. 2021. “[Gender and the Dynamics of Economics Seminars](https://www.nber.org/papers/w28494).”   
 
 
